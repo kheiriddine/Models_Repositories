@@ -1,0 +1,1001 @@
+Transaction ID,Date,Description,Amount,Currency,Supplier Name,Category,Subcategory
+T0001,2025-01-15,"Procurement of Last-mile Delivery from Mendez, Brennan and Yu",41196.99,EUR,"Mendez, Brennan and Yu",Logistics,Last-mile Delivery
+T0002,2025-02-03,"Procurement of strategize global portals from Randolph, Salas and Vasquez",22849.72,EUR,"Randolph, Salas and Vasquez",,
+T0003,2025-01-03,Procurement of Event Sponsorship from Watson-Smith,29690.34,EUR,Watson-Smith,Marketing,Event Sponsorship
+T0004,2025-03-23,Procurement of Production Equipment from Ramsey-Barnett,8570.45,EUR,Ramsey-Barnett,Manufacturing,Production Equipment
+T0005,2025-02-06,Procurement of matrix global experiences from Haley Group,25107.8,EUR,Haley Group,,
+T0006,2025-03-06,"Procurement of One-shot Software Purchase from Mcdonald, Frederick and West",9752.04,EUR,"Mcdonald, Frederick and West",IT,One-shot Software Purchase
+T0007,2025-02-07,Procurement of Cold Chain Transport from Wolfe-Lopez,22701.59,EUR,Wolfe-Lopez,Logistics,Cold Chain Transport
+T0008,2025-02-17,Procurement of embrace compelling interfaces from Rodriguez Group,49512.42,USD,Rodriguez Group,,
+T0009,2025-03-02,Procurement of Recruitment Services from Patterson-Clayton,48336.67,GBP,Patterson-Clayton,HR & Training,Recruitment Services
+T0010,2024-12-29,Procurement of Clinical Trials from Hunt-Bennett,43137.29,EUR,Hunt-Bennett,R&D,Clinical Trials
+T0011,2025-03-03,"Procurement of Event Sponsorship from Jennings, Lawrence and Jackson",8003.92,GBP,"Jennings, Lawrence and Jackson",Marketing,Event Sponsorship
+T0012,2025-02-21,Procurement of grow magnetic relationships from Perry-Jackson,10234.03,EUR,Perry-Jackson,,
+T0013,2025-02-15,"Procurement of Clinical Trials from Olson, Stein and Baker",36058.03,USD,"Olson, Stein and Baker",R&D,Clinical Trials
+T0014,2024-12-30,Procurement of facilitate visionary communities from Bailey-Sanchez,38464.68,EUR,Bailey-Sanchez,,
+T0015,2025-01-04,"Procurement of syndicate dot-com technologies from Berry, Adkins and Davis",18909.07,EUR,"Berry, Adkins and Davis",,
+T0016,2025-01-01,"Procurement of brand vertical vortals from Monroe, Bryant and Dennis",13654.3,EUR,"Monroe, Bryant and Dennis",,
+T0017,2025-02-26,Procurement of Recruitment Services from Wall PLC,29347.57,EUR,Wall PLC,HR & Training,Recruitment Services
+T0018,2025-03-18,Procurement of facilitate cross-platform users from Avila-Miller,16517.63,EUR,Avila-Miller,,
+T0019,2025-03-06,"Procurement of Recruitment Services from Hoffman, Mcintyre and Mckenzie",44040.22,USD,"Hoffman, Mcintyre and Mckenzie",HR & Training,Recruitment Services
+T0020,2025-03-07,Procurement of implement compelling content from Smith Inc,36013.18,USD,Smith Inc,,
+T0021,2025-02-04,Procurement of deploy dynamic relationships from Smith and Sons,31328.68,EUR,Smith and Sons,,
+T0022,2025-03-06,Procurement of Clinical Trials from Flores Ltd,9735.33,USD,Flores Ltd,R&D,Clinical Trials
+T0023,2024-12-26,"Procurement of Recurrent SaaS License from Alvarado, Smith and Williams",26448.42,USD,"Alvarado, Smith and Williams",IT,Recurrent SaaS License
+T0024,2025-02-23,"Procurement of Production Equipment from Ho, Nguyen and Williams",41100.0,USD,"Ho, Nguyen and Williams",Manufacturing,Production Equipment
+T0025,2025-01-15,Procurement of Temporary Staff from Benton-Wang,13047.35,USD,Benton-Wang,HR & Training,Temporary Staff
+T0026,2025-03-04,"Procurement of Last-mile Delivery from Berry, Adkins and Davis",37695.87,EUR,"Berry, Adkins and Davis",Logistics,Last-mile Delivery
+T0027,2025-02-11,"Procurement of syndicate cutting-edge relationships from Bell, Shaffer and Zamora",10833.09,GBP,"Bell, Shaffer and Zamora",,
+T0028,2025-03-02,Procurement of Professional IT Services from Matthews LLC,31534.6,GBP,Matthews LLC,IT,Professional IT Services
+T0029,2025-02-25,Procurement of Lab Equipment from Graves-Thompson,25509.37,USD,Graves-Thompson,R&D,Lab Equipment
+T0030,2025-02-27,Procurement of harness revolutionary infrastructures from Contreras-Lucas,46491.99,GBP,Contreras-Lucas,,
+T0031,2025-03-01,Procurement of re-contextualize impactful infrastructures from Banks-Tate,13565.5,EUR,Banks-Tate,,
+T0032,2025-01-09,Procurement of Facility Maintenance from Rodriguez Group,11912.67,USD,Rodriguez Group,Manufacturing,Facility Maintenance
+T0033,2024-12-28,Procurement of Production Equipment from Benton-Wang,4388.06,USD,Benton-Wang,Manufacturing,Production Equipment
+T0034,2025-01-09,Procurement of Research Services from Melton PLC,43494.71,EUR,Melton PLC,R&D,Research Services
+T0035,2025-02-18,"Procurement of One-shot Software Purchase from Mcdonald, Frederick and West",39344.61,GBP,"Mcdonald, Frederick and West",IT,One-shot Software Purchase
+T0036,2025-02-13,Procurement of One-shot Software Purchase from Benton-Wang,10278.55,USD,Benton-Wang,IT,One-shot Software Purchase
+T0037,2025-02-11,Procurement of Recurrent SaaS License from Young-Anderson,45982.92,USD,Young-Anderson,IT,Recurrent SaaS License
+T0038,2025-03-09,Procurement of matrix extensible mindshare from Phelps-Beck,45815.69,GBP,Phelps-Beck,,
+T0039,2025-02-11,Procurement of Production Equipment from Webb-Tucker,44717.89,USD,Webb-Tucker,Manufacturing,Production Equipment
+T0040,2025-02-18,Procurement of exploit front-end platforms from Hunt-Bennett,11213.07,USD,Hunt-Bennett,,
+T0041,2025-02-21,Procurement of Raw Materials from Watson-Smith,46636.85,USD,Watson-Smith,Manufacturing,Raw Materials
+T0042,2025-01-21,"Procurement of Digital Advertising from Howard, Charles and Oneill",8141.25,EUR,"Howard, Charles and Oneill",Marketing,Digital Advertising
+T0043,2025-02-22,"Procurement of redefine intuitive e-services from Perez, Blackwell and Mckee",20934.9,EUR,"Perez, Blackwell and Mckee",,
+T0044,2025-02-26,"Procurement of Lab Equipment from Lopez, Golden and Calhoun",43286.02,USD,"Lopez, Golden and Calhoun",R&D,Lab Equipment
+T0045,2025-01-05,"Procurement of Digital Advertising from Sanchez, Wu and Smith",8170.03,GBP,"Sanchez, Wu and Smith",Marketing,Digital Advertising
+T0046,2025-01-23,Procurement of Digital Advertising from Collins-Donovan,24087.77,EUR,Collins-Donovan,Marketing,Digital Advertising
+T0047,2025-02-20,"Procurement of optimize granular web-readiness from Jennings, Lawrence and Jackson",35904.23,EUR,"Jennings, Lawrence and Jackson",,
+T0048,2025-03-23,"Procurement of orchestrate dynamic vortals from Scott, West and Brown",22958.0,GBP,"Scott, West and Brown",,
+T0049,2025-01-01,Procurement of Facility Maintenance from Orozco-Davis,11543.38,EUR,Orozco-Davis,Manufacturing,Facility Maintenance
+T0050,2025-01-11,Procurement of matrix bricks-and-clicks content from Nolan LLC,29502.89,EUR,Nolan LLC,,
+T0051,2025-03-01,"Procurement of Temporary Staff from Cain, Price and Lozano",19642.44,GBP,"Cain, Price and Lozano",HR & Training,Temporary Staff
+T0052,2025-03-03,Procurement of benchmark virtual e-business from Newman LLC,42899.33,USD,Newman LLC,,
+T0053,2025-02-14,Procurement of Production Equipment from Haley Group,48017.64,USD,Haley Group,Manufacturing,Production Equipment
+T0054,2025-02-12,"Procurement of Temporary Staff from Mendez, Brennan and Yu",20732.09,USD,"Mendez, Brennan and Yu",HR & Training,Temporary Staff
+T0055,2025-01-26,Procurement of orchestrate e-business systems from Mitchell Ltd,26796.76,GBP,Mitchell Ltd,,
+T0056,2025-01-27,Procurement of Event Sponsorship from Cross Inc,25833.88,USD,Cross Inc,Marketing,Event Sponsorship
+T0057,2025-03-17,Procurement of One-shot Software Purchase from Adams-Patel,2858.95,GBP,Adams-Patel,IT,One-shot Software Purchase
+T0058,2025-03-22,Procurement of Print Media from Silva PLC,35378.2,GBP,Silva PLC,Marketing,Print Media
+T0059,2025-02-22,"Procurement of Clinical Trials from Mcdonald, Frederick and West",27737.24,USD,"Mcdonald, Frederick and West",R&D,Clinical Trials
+T0060,2025-01-26,Procurement of One-shot Software Purchase from Brooks LLC,47105.68,EUR,Brooks LLC,IT,One-shot Software Purchase
+T0061,2025-03-06,"Procurement of Cold Chain Transport from Cook, Rivera and Cox",42041.34,GBP,"Cook, Rivera and Cox",Logistics,Cold Chain Transport
+T0062,2025-01-28,Procurement of syndicate virtual info-mediaries from Hunt-Bennett,4479.43,GBP,Hunt-Bennett,,
+T0063,2025-03-21,Procurement of Facility Maintenance from Davis-Smith,14331.91,GBP,Davis-Smith,Manufacturing,Facility Maintenance
+T0064,2025-01-17,"Procurement of Facility Maintenance from Mendez, Brennan and Yu",14561.26,EUR,"Mendez, Brennan and Yu",Manufacturing,Facility Maintenance
+T0065,2025-03-11,"Procurement of synergize customized eyeballs from Alvarado, Smith and Williams",37651.55,USD,"Alvarado, Smith and Williams",,
+T0066,2025-03-18,Procurement of Last-mile Delivery from Wang LLC,19359.45,GBP,Wang LLC,Logistics,Last-mile Delivery
+T0067,2025-02-23,Procurement of integrate bleeding-edge architectures from Benton-Wang,43006.31,GBP,Benton-Wang,,
+T0068,2025-01-25,"Procurement of brand turn-key functionalities from Sanchez, Wu and Smith",18088.9,GBP,"Sanchez, Wu and Smith",,
+T0069,2025-02-06,"Procurement of Cold Chain Transport from Bell, Shaffer and Zamora",17997.13,EUR,"Bell, Shaffer and Zamora",Logistics,Cold Chain Transport
+T0070,2025-02-10,Procurement of envisioneer front-end e-services from Smith and Sons,28962.44,GBP,Smith and Sons,,
+T0071,2025-02-18,"Procurement of iterate clicks-and-mortar infrastructures from Perez, Blackwell and Mckee",48759.32,EUR,"Perez, Blackwell and Mckee",,
+T0072,2025-01-07,"Procurement of Cold Chain Transport from Phillips, Allen and Smith",1130.67,USD,"Phillips, Allen and Smith",Logistics,Cold Chain Transport
+T0073,2025-02-09,"Procurement of Production Equipment from Olson, Stein and Baker",3026.52,USD,"Olson, Stein and Baker",Manufacturing,Production Equipment
+T0074,2025-01-12,Procurement of Clinical Trials from Adams-Patel,43600.79,EUR,Adams-Patel,R&D,Clinical Trials
+T0075,2025-02-07,"Procurement of Event Sponsorship from Adams, Young and Hodges",16832.84,USD,"Adams, Young and Hodges",Marketing,Event Sponsorship
+T0076,2025-03-22,Procurement of revolutionize compelling content from Adams-Patel,18738.94,EUR,Adams-Patel,,
+T0077,2025-02-07,Procurement of Temporary Staff from Hunt-Bennett,48626.36,GBP,Hunt-Bennett,HR & Training,Temporary Staff
+T0078,2025-03-18,Procurement of Production Equipment from Williams PLC,14779.49,GBP,Williams PLC,Manufacturing,Production Equipment
+T0079,2025-01-08,Procurement of disintermediate wireless content from Mathews and Sons,26979.66,EUR,Mathews and Sons,,
+T0080,2025-01-10,Procurement of Clinical Trials from Russell-Kim,34616.55,GBP,Russell-Kim,R&D,Clinical Trials
+T0081,2025-03-13,"Procurement of Facility Maintenance from Murillo, Jackson and Guerrero",36492.73,GBP,"Murillo, Jackson and Guerrero",Manufacturing,Facility Maintenance
+T0082,2025-01-27,Procurement of disintermediate front-end e-markets from Wall PLC,17136.91,GBP,Wall PLC,,
+T0083,2025-02-13,Procurement of Production Equipment from Sherman-Martin,35961.49,GBP,Sherman-Martin,Manufacturing,Production Equipment
+T0084,2025-01-16,Procurement of Lab Equipment from Webb-Tucker,47514.66,USD,Webb-Tucker,R&D,Lab Equipment
+T0085,2025-01-30,Procurement of Employee Training from Robinson-Gonzales,17952.52,EUR,Robinson-Gonzales,HR & Training,Employee Training
+T0086,2025-03-14,"Procurement of Lab Equipment from Cain, Price and Lozano",43636.56,USD,"Cain, Price and Lozano",R&D,Lab Equipment
+T0087,2025-01-14,"Procurement of Research Services from Murillo, Jackson and Guerrero",28007.49,GBP,"Murillo, Jackson and Guerrero",R&D,Research Services
+T0088,2025-02-25,Procurement of Employee Training from Reid-Reynolds,1198.03,GBP,Reid-Reynolds,HR & Training,Employee Training
+T0089,2025-03-21,Procurement of Cold Chain Transport from Adams-Patel,20954.55,GBP,Adams-Patel,Logistics,Cold Chain Transport
+T0090,2025-03-13,Procurement of Lab Equipment from Silva PLC,11069.72,GBP,Silva PLC,R&D,Lab Equipment
+T0091,2025-02-17,Procurement of Recruitment Services from Contreras-Lucas,3956.58,EUR,Contreras-Lucas,HR & Training,Recruitment Services
+T0092,2025-03-08,Procurement of Digital Advertising from Banks-Tate,22586.41,USD,Banks-Tate,Marketing,Digital Advertising
+T0093,2025-01-09,"Procurement of Professional IT Services from Cook, Rivera and Cox",5956.55,USD,"Cook, Rivera and Cox",IT,Professional IT Services
+T0094,2025-01-14,Procurement of Last-mile Delivery from Juarez Inc,33699.28,EUR,Juarez Inc,Logistics,Last-mile Delivery
+T0095,2025-01-17,"Procurement of Digital Advertising from Alvarado, Smith and Williams",20399.18,USD,"Alvarado, Smith and Williams",Marketing,Digital Advertising
+T0096,2025-01-11,Procurement of Raw Materials from Mitchell Ltd,8241.69,EUR,Mitchell Ltd,Manufacturing,Raw Materials
+T0097,2024-12-28,Procurement of Recurrent SaaS License from Ramsey-Barnett,23159.99,GBP,Ramsey-Barnett,IT,Recurrent SaaS License
+T0098,2025-03-02,Procurement of redefine frictionless markets from Combs PLC,38964.92,EUR,Combs PLC,,
+T0099,2025-02-10,Procurement of Cold Chain Transport from Benton-Wang,26299.05,GBP,Benton-Wang,Logistics,Cold Chain Transport
+T0100,2025-02-09,Procurement of Recruitment Services from Reid-Reynolds,26098.09,GBP,Reid-Reynolds,HR & Training,Recruitment Services
+T0101,2025-02-23,Procurement of brand user-centric solutions from Dunlap-Weiss,20334.29,EUR,Dunlap-Weiss,,
+T0102,2025-03-09,Procurement of Cold Chain Transport from Matthews LLC,28283.39,GBP,Matthews LLC,Logistics,Cold Chain Transport
+T0103,2025-03-14,"Procurement of Print Media from Cain, Price and Lozano",4632.95,GBP,"Cain, Price and Lozano",Marketing,Print Media
+T0104,2025-01-07,Procurement of Temporary Staff from Flores Ltd,17877.71,EUR,Flores Ltd,HR & Training,Temporary Staff
+T0105,2025-02-07,"Procurement of Production Equipment from Jennings, Lawrence and Jackson",44059.94,EUR,"Jennings, Lawrence and Jackson",Manufacturing,Production Equipment
+T0106,2025-03-02,Procurement of One-shot Software Purchase from Sherman-Martin,10037.59,EUR,Sherman-Martin,IT,One-shot Software Purchase
+T0107,2025-01-24,Procurement of Temporary Staff from Patterson-Clayton,14612.44,GBP,Patterson-Clayton,HR & Training,Temporary Staff
+T0108,2025-02-25,Procurement of Research Services from Banks-Tate,8149.4,EUR,Banks-Tate,R&D,Research Services
+T0109,2025-01-05,"Procurement of Warehousing from Sanchez, Wu and Smith",1817.66,USD,"Sanchez, Wu and Smith",Logistics,Warehousing
+T0110,2025-02-10,"Procurement of Digital Advertising from Sherman, Colon and Moore",12087.39,EUR,"Sherman, Colon and Moore",Marketing,Digital Advertising
+T0111,2025-01-28,Procurement of synergize out-of-the-box action-items from Burgess PLC,21547.6,GBP,Burgess PLC,,
+T0112,2025-02-25,Procurement of Recurrent SaaS License from Combs PLC,36685.62,USD,Combs PLC,IT,Recurrent SaaS License
+T0113,2025-02-24,Procurement of Recurrent SaaS License from Erickson-Larson,31641.16,EUR,Erickson-Larson,IT,Recurrent SaaS License
+T0114,2025-01-16,"Procurement of Lab Equipment from Berry, Adkins and Davis",36757.04,EUR,"Berry, Adkins and Davis",R&D,Lab Equipment
+T0115,2025-03-07,Procurement of generate holistic platforms from Smith and Sons,30110.73,USD,Smith and Sons,,
+T0116,2025-02-21,Procurement of Print Media from Cross Inc,30838.19,USD,Cross Inc,Marketing,Print Media
+T0117,2025-03-01,"Procurement of Clinical Trials from Olson, Stein and Baker",10285.94,GBP,"Olson, Stein and Baker",R&D,Clinical Trials
+T0118,2025-01-02,Procurement of brand customized communities from Vargas-Becker,4349.3,EUR,Vargas-Becker,,
+T0119,2025-02-05,Procurement of Lab Equipment from Russell-Kim,48023.79,GBP,Russell-Kim,R&D,Lab Equipment
+T0120,2025-02-16,Procurement of Professional IT Services from Avila-Miller,9493.06,GBP,Avila-Miller,IT,Professional IT Services
+T0121,2025-02-23,"Procurement of extend 24/7 e-services from Randolph, Salas and Vasquez",22450.39,EUR,"Randolph, Salas and Vasquez",,
+T0122,2024-12-27,"Procurement of Digital Advertising from Hooper, Robinson and Little",30930.01,GBP,"Hooper, Robinson and Little",Marketing,Digital Advertising
+T0123,2025-01-24,Procurement of Lab Equipment from Martin and Sons,49553.21,GBP,Martin and Sons,R&D,Lab Equipment
+T0124,2025-03-18,Procurement of Cold Chain Transport from Haley Group,35577.99,EUR,Haley Group,Logistics,Cold Chain Transport
+T0125,2025-03-01,Procurement of Recurrent SaaS License from Malone-Whitaker,35153.57,USD,Malone-Whitaker,IT,Recurrent SaaS License
+T0126,2025-02-21,Procurement of morph robust eyeballs from Russell-Kim,42259.6,GBP,Russell-Kim,,
+T0127,2025-01-13,Procurement of Digital Advertising from Juarez Inc,48475.14,USD,Juarez Inc,Marketing,Digital Advertising
+T0128,2025-03-25,Procurement of orchestrate compelling synergies from Young-Anderson,17991.9,EUR,Young-Anderson,,
+T0129,2025-03-12,Procurement of integrate value-added e-business from Watson-Smith,43967.08,EUR,Watson-Smith,,
+T0130,2025-02-21,Procurement of Raw Materials from Wall PLC,16153.72,EUR,Wall PLC,Manufacturing,Raw Materials
+T0131,2025-01-17,"Procurement of Clinical Trials from Monroe, Bryant and Dennis",16697.09,GBP,"Monroe, Bryant and Dennis",R&D,Clinical Trials
+T0132,2025-03-15,Procurement of Employee Training from Avila-Miller,3569.87,EUR,Avila-Miller,HR & Training,Employee Training
+T0133,2024-12-27,Procurement of Event Sponsorship from Williams PLC,49818.06,USD,Williams PLC,Marketing,Event Sponsorship
+T0134,2025-02-24,Procurement of Recruitment Services from Gilbert-Velazquez,35840.2,EUR,Gilbert-Velazquez,HR & Training,Recruitment Services
+T0135,2025-02-16,"Procurement of Research Services from Scott, West and Brown",45522.15,EUR,"Scott, West and Brown",R&D,Research Services
+T0136,2024-12-31,"Procurement of architect web-enabled e-tailers from Murillo, Jackson and Guerrero",24313.6,GBP,"Murillo, Jackson and Guerrero",,
+T0137,2024-12-26,Procurement of Research Services from Patel LLC,43889.19,USD,Patel LLC,R&D,Research Services
+T0138,2025-02-26,Procurement of Recruitment Services from Webb-Tucker,32834.69,USD,Webb-Tucker,HR & Training,Recruitment Services
+T0139,2025-02-13,"Procurement of Temporary Staff from Adams, Young and Hodges",6788.92,EUR,"Adams, Young and Hodges",HR & Training,Temporary Staff
+T0140,2025-02-06,Procurement of Lab Equipment from Smith and Sons,5075.87,GBP,Smith and Sons,R&D,Lab Equipment
+T0141,2025-03-17,Procurement of Warehousing from Russell-Kim,44363.54,USD,Russell-Kim,Logistics,Warehousing
+T0142,2025-01-15,Procurement of redefine distributed e-markets from Ramsey-Barnett,27276.47,EUR,Ramsey-Barnett,,
+T0143,2025-02-09,"Procurement of Warehousing from Olson, Stein and Baker",48427.7,USD,"Olson, Stein and Baker",Logistics,Warehousing
+T0144,2025-02-03,"Procurement of productize seamless metrics from Day, Long and Bell",26138.4,EUR,"Day, Long and Bell",,
+T0145,2025-01-29,Procurement of Print Media from Wall PLC,12456.98,GBP,Wall PLC,Marketing,Print Media
+T0146,2025-03-21,Procurement of utilize ubiquitous experiences from Brooks LLC,17091.26,EUR,Brooks LLC,,
+T0147,2025-01-12,Procurement of Temporary Staff from Watson-Smith,41013.82,GBP,Watson-Smith,HR & Training,Temporary Staff
+T0148,2025-01-27,Procurement of Recurrent SaaS License from Hughes-Payne,15024.99,EUR,Hughes-Payne,IT,Recurrent SaaS License
+T0149,2025-03-04,Procurement of Professional IT Services from Benton-Wang,36287.81,GBP,Benton-Wang,IT,Professional IT Services
+T0150,2025-02-06,Procurement of engage cross-media paradigms from Hughes-Payne,9353.09,GBP,Hughes-Payne,,
+T0151,2025-01-03,Procurement of Raw Materials from Nelson Group,5276.42,GBP,Nelson Group,Manufacturing,Raw Materials
+T0152,2025-02-25,Procurement of re-intermediate interactive content from Williams PLC,44251.86,USD,Williams PLC,,
+T0153,2025-01-10,Procurement of Employee Training from Avila-Miller,12928.03,EUR,Avila-Miller,HR & Training,Employee Training
+T0154,2025-02-10,Procurement of Facility Maintenance from Flores Ltd,34634.22,GBP,Flores Ltd,Manufacturing,Facility Maintenance
+T0155,2025-02-05,Procurement of Last-mile Delivery from Webb-Tucker,19135.34,USD,Webb-Tucker,Logistics,Last-mile Delivery
+T0156,2025-03-15,Procurement of Professional IT Services from Watson-Carson,30072.1,EUR,Watson-Carson,IT,Professional IT Services
+T0157,2025-02-16,"Procurement of Digital Advertising from Jennings, Lawrence and Jackson",23197.86,EUR,"Jennings, Lawrence and Jackson",Marketing,Digital Advertising
+T0158,2025-02-27,Procurement of Clinical Trials from Matthews LLC,30771.77,GBP,Matthews LLC,R&D,Clinical Trials
+T0159,2025-03-21,Procurement of One-shot Software Purchase from Johnson Ltd,24414.88,GBP,Johnson Ltd,IT,One-shot Software Purchase
+T0160,2025-03-24,Procurement of Lab Equipment from Perry-Jackson,7972.77,EUR,Perry-Jackson,R&D,Lab Equipment
+T0161,2025-03-19,Procurement of innovate dynamic e-tailers from Watson-Carson,3218.85,GBP,Watson-Carson,,
+T0162,2025-02-11,Procurement of e-enable magnetic action-items from Stanley and Sons,12939.28,GBP,Stanley and Sons,,
+T0163,2025-01-09,Procurement of Temporary Staff from Adams-Patel,25182.19,GBP,Adams-Patel,HR & Training,Temporary Staff
+T0164,2025-01-03,Procurement of whiteboard back-end eyeballs from Johnson-Farmer,5137.97,EUR,Johnson-Farmer,,
+T0165,2025-02-08,Procurement of embrace viral networks from Coleman Inc,11821.18,EUR,Coleman Inc,,
+T0166,2025-02-01,Procurement of Recruitment Services from Nolan LLC,43212.01,USD,Nolan LLC,HR & Training,Recruitment Services
+T0167,2025-02-09,Procurement of Cold Chain Transport from Nolan LLC,23774.8,EUR,Nolan LLC,Logistics,Cold Chain Transport
+T0168,2025-03-20,Procurement of empower proactive initiatives from Johnson-Farmer,12967.27,EUR,Johnson-Farmer,,
+T0169,2025-03-10,Procurement of Facility Maintenance from Williams PLC,44682.13,USD,Williams PLC,Manufacturing,Facility Maintenance
+T0170,2024-12-27,Procurement of Last-mile Delivery from Nolan LLC,10254.73,GBP,Nolan LLC,Logistics,Last-mile Delivery
+T0171,2025-01-23,Procurement of Digital Advertising from Perry LLC,48583.4,GBP,Perry LLC,Marketing,Digital Advertising
+T0172,2025-03-24,"Procurement of Professional IT Services from May, Osborne and Randolph",20638.33,GBP,"May, Osborne and Randolph",IT,Professional IT Services
+T0173,2025-02-15,Procurement of Clinical Trials from Flores Ltd,20239.91,GBP,Flores Ltd,R&D,Clinical Trials
+T0174,2025-01-19,Procurement of Production Equipment from Hunt-Bennett,37443.93,GBP,Hunt-Bennett,Manufacturing,Production Equipment
+T0175,2025-01-23,"Procurement of Clinical Trials from Murillo, Jackson and Guerrero",32911.47,GBP,"Murillo, Jackson and Guerrero",R&D,Clinical Trials
+T0176,2025-02-12,Procurement of disintermediate customized users from Gilbert-Velazquez,26121.26,GBP,Gilbert-Velazquez,,
+T0177,2025-02-09,"Procurement of Research Services from Mcdonald, Frederick and West",37719.34,EUR,"Mcdonald, Frederick and West",R&D,Research Services
+T0178,2025-01-30,Procurement of Clinical Trials from Patel LLC,40594.17,EUR,Patel LLC,R&D,Clinical Trials
+T0179,2025-02-04,"Procurement of exploit global supply-chains from Cook, Rivera and Cox",5047.44,GBP,"Cook, Rivera and Cox",,
+T0180,2025-03-10,Procurement of scale web-enabled e-commerce from Coleman Inc,28215.24,EUR,Coleman Inc,,
+T0181,2025-02-03,Procurement of transform mission-critical users from Smith and Sons,39303.57,USD,Smith and Sons,,
+T0182,2025-01-16,"Procurement of incentivize extensible ROI from Alvarado, Smith and Williams",11464.81,GBP,"Alvarado, Smith and Williams",,
+T0183,2025-01-02,"Procurement of exploit collaborative web services from Monroe, Bryant and Dennis",995.66,GBP,"Monroe, Bryant and Dennis",,
+T0184,2025-02-17,Procurement of integrate dot-com schemas from Graves-Thompson,42191.47,GBP,Graves-Thompson,,
+T0185,2025-03-14,Procurement of Last-mile Delivery from Reid-Reynolds,13119.82,GBP,Reid-Reynolds,Logistics,Last-mile Delivery
+T0186,2025-01-03,Procurement of Lab Equipment from Mason-Warren,36286.77,EUR,Mason-Warren,R&D,Lab Equipment
+T0187,2025-02-14,Procurement of reinvent leading-edge architectures from Watson-Carson,37073.76,USD,Watson-Carson,,
+T0188,2025-01-14,"Procurement of One-shot Software Purchase from West, Jones and Koch",21907.72,EUR,"West, Jones and Koch",IT,One-shot Software Purchase
+T0189,2025-01-24,"Procurement of deploy distributed action-items from Huff, Thompson and Day",48538.84,EUR,"Huff, Thompson and Day",,
+T0190,2025-02-17,"Procurement of repurpose end-to-end web services from Olson, Stein and Baker",10905.18,USD,"Olson, Stein and Baker",,
+T0191,2025-01-12,Procurement of Employee Training from Martin and Sons,29126.9,EUR,Martin and Sons,HR & Training,Employee Training
+T0192,2025-02-09,Procurement of utilize virtual eyeballs from Johnson Ltd,18916.08,GBP,Johnson Ltd,,
+T0193,2025-02-12,Procurement of evolve synergistic supply-chains from Martin and Sons,13533.59,EUR,Martin and Sons,,
+T0194,2024-12-25,Procurement of Event Sponsorship from Cross Inc,45607.64,GBP,Cross Inc,Marketing,Event Sponsorship
+T0195,2025-01-04,"Procurement of exploit clicks-and-mortar architectures from Sanchez, Wu and Smith",35517.77,GBP,"Sanchez, Wu and Smith",,
+T0196,2025-02-17,Procurement of Temporary Staff from Williams PLC,18337.15,GBP,Williams PLC,HR & Training,Temporary Staff
+T0197,2025-01-21,Procurement of Clinical Trials from Melton PLC,45548.32,USD,Melton PLC,R&D,Clinical Trials
+T0198,2025-02-26,"Procurement of visualize cross-media functionalities from Huff, Thompson and Day",46708.45,GBP,"Huff, Thompson and Day",,
+T0199,2025-01-01,Procurement of Warehousing from Coleman Inc,20951.34,GBP,Coleman Inc,Logistics,Warehousing
+T0200,2025-02-08,"Procurement of e-enable back-end paradigms from Perez, Blackwell and Mckee",8954.95,EUR,"Perez, Blackwell and Mckee",,
+T0201,2025-01-23,"Procurement of Research Services from Jennings, Lawrence and Jackson",26904.11,EUR,"Jennings, Lawrence and Jackson",R&D,Research Services
+T0202,2025-03-03,Procurement of Employee Training from Flores Ltd,6922.59,USD,Flores Ltd,HR & Training,Employee Training
+T0203,2025-03-22,"Procurement of integrate plug-and-play relationships from Hooper, Robinson and Little",36470.87,USD,"Hooper, Robinson and Little",,
+T0204,2025-03-15,Procurement of Recurrent SaaS License from Williams PLC,24544.91,GBP,Williams PLC,IT,Recurrent SaaS License
+T0205,2025-01-11,Procurement of Clinical Trials from Gilbert-Velazquez,40860.7,GBP,Gilbert-Velazquez,R&D,Clinical Trials
+T0206,2025-02-12,Procurement of Recurrent SaaS License from Wang LLC,4610.42,EUR,Wang LLC,IT,Recurrent SaaS License
+T0207,2025-01-14,Procurement of Production Equipment from Williams PLC,11286.24,GBP,Williams PLC,Manufacturing,Production Equipment
+T0208,2025-02-27,"Procurement of Warehousing from Townsend, Harper and Baker",8289.41,GBP,"Townsend, Harper and Baker",Logistics,Warehousing
+T0209,2025-01-07,Procurement of Recurrent SaaS License from Mason-Warren,32009.48,EUR,Mason-Warren,IT,Recurrent SaaS License
+T0210,2025-01-01,"Procurement of Cold Chain Transport from West, Jones and Koch",22095.32,EUR,"West, Jones and Koch",Logistics,Cold Chain Transport
+T0211,2025-02-13,"Procurement of Employee Training from Sanchez, Wu and Smith",2246.95,USD,"Sanchez, Wu and Smith",HR & Training,Employee Training
+T0212,2025-03-14,Procurement of Digital Advertising from Collins-Donovan,46930.08,EUR,Collins-Donovan,Marketing,Digital Advertising
+T0213,2025-03-08,Procurement of incentivize granular convergence from Wolfe-Lopez,49537.57,GBP,Wolfe-Lopez,,
+T0214,2025-03-12,Procurement of Event Sponsorship from Hill PLC,1723.58,GBP,Hill PLC,Marketing,Event Sponsorship
+T0215,2025-01-27,Procurement of Event Sponsorship from Brooks LLC,21651.91,GBP,Brooks LLC,Marketing,Event Sponsorship
+T0216,2024-12-30,"Procurement of expedite value-added action-items from Bell, Shaffer and Zamora",49599.99,USD,"Bell, Shaffer and Zamora",,
+T0217,2025-02-03,Procurement of One-shot Software Purchase from Perry LLC,31425.52,EUR,Perry LLC,IT,One-shot Software Purchase
+T0218,2024-12-26,Procurement of Lab Equipment from Mitchell Ltd,24760.77,GBP,Mitchell Ltd,R&D,Lab Equipment
+T0219,2025-02-05,Procurement of Event Sponsorship from Webb-Tucker,43860.88,USD,Webb-Tucker,Marketing,Event Sponsorship
+T0220,2025-01-03,"Procurement of Recurrent SaaS License from Day, Long and Bell",11475.77,USD,"Day, Long and Bell",IT,Recurrent SaaS License
+T0221,2025-02-11,"Procurement of seize collaborative e-markets from Day, Long and Bell",48728.97,EUR,"Day, Long and Bell",,
+T0222,2025-02-17,Procurement of Recruitment Services from Robertson LLC,18499.75,USD,Robertson LLC,HR & Training,Recruitment Services
+T0223,2025-01-25,Procurement of transform enterprise paradigms from Patterson-Clayton,34279.47,EUR,Patterson-Clayton,,
+T0224,2025-03-19,Procurement of Raw Materials from Wolfe-Lopez,22325.52,GBP,Wolfe-Lopez,Manufacturing,Raw Materials
+T0225,2025-01-13,"Procurement of Production Equipment from Day, Long and Bell",36176.72,EUR,"Day, Long and Bell",Manufacturing,Production Equipment
+T0226,2025-01-06,Procurement of Print Media from Humphrey Ltd,27859.12,GBP,Humphrey Ltd,Marketing,Print Media
+T0227,2025-03-08,Procurement of Warehousing from Ramsey-Barnett,13012.92,GBP,Ramsey-Barnett,Logistics,Warehousing
+T0228,2025-02-16,"Procurement of morph 24/365 mindshare from Bell, Shaffer and Zamora",38431.78,GBP,"Bell, Shaffer and Zamora",,
+T0229,2025-03-16,Procurement of iterate cross-platform experiences from Taylor PLC,34885.62,EUR,Taylor PLC,,
+T0230,2025-03-18,Procurement of Raw Materials from Melton PLC,15336.66,GBP,Melton PLC,Manufacturing,Raw Materials
+T0231,2025-01-20,"Procurement of One-shot Software Purchase from Adams, Young and Hodges",8692.42,EUR,"Adams, Young and Hodges",IT,One-shot Software Purchase
+T0232,2025-03-16,"Procurement of repurpose bricks-and-clicks deliverables from Murillo, Jackson and Guerrero",25276.89,GBP,"Murillo, Jackson and Guerrero",,
+T0233,2025-02-07,Procurement of Raw Materials from Sherman-Martin,8723.31,EUR,Sherman-Martin,Manufacturing,Raw Materials
+T0234,2025-01-30,Procurement of Last-mile Delivery from Sherman-Martin,42445.36,GBP,Sherman-Martin,Logistics,Last-mile Delivery
+T0235,2024-12-28,Procurement of Print Media from Watson-Smith,21592.81,GBP,Watson-Smith,Marketing,Print Media
+T0236,2025-02-28,Procurement of Cold Chain Transport from Hill PLC,37033.46,GBP,Hill PLC,Logistics,Cold Chain Transport
+T0237,2025-02-20,"Procurement of Print Media from Bell, Shaffer and Zamora",19946.77,GBP,"Bell, Shaffer and Zamora",Marketing,Print Media
+T0238,2025-01-14,Procurement of Cold Chain Transport from Webb-Tucker,40576.5,GBP,Webb-Tucker,Logistics,Cold Chain Transport
+T0239,2025-01-08,Procurement of Recruitment Services from Patel LLC,36666.84,EUR,Patel LLC,HR & Training,Recruitment Services
+T0240,2025-01-29,Procurement of Cold Chain Transport from Rodriguez LLC,43932.38,EUR,Rodriguez LLC,Logistics,Cold Chain Transport
+T0241,2025-02-03,Procurement of Clinical Trials from Ramsey-Barnett,28453.88,EUR,Ramsey-Barnett,R&D,Clinical Trials
+T0242,2025-01-11,"Procurement of facilitate back-end initiatives from Berry, Adkins and Davis",23037.45,EUR,"Berry, Adkins and Davis",,
+T0243,2025-02-27,Procurement of Lab Equipment from Russell-Kim,14006.45,EUR,Russell-Kim,R&D,Lab Equipment
+T0244,2025-03-19,Procurement of Research Services from Banks-Tate,15194.47,GBP,Banks-Tate,R&D,Research Services
+T0245,2025-03-23,Procurement of Recurrent SaaS License from Haley Group,19737.06,EUR,Haley Group,IT,Recurrent SaaS License
+T0246,2025-01-24,Procurement of Lab Equipment from Cross Inc,49909.69,GBP,Cross Inc,R&D,Lab Equipment
+T0247,2025-01-22,"Procurement of Research Services from Mendez, Brennan and Yu",46585.06,EUR,"Mendez, Brennan and Yu",R&D,Research Services
+T0248,2025-03-15,"Procurement of Warehousing from Smith, Aguilar and Finley",1147.1,EUR,"Smith, Aguilar and Finley",Logistics,Warehousing
+T0249,2025-01-09,Procurement of One-shot Software Purchase from Ramsey-Barnett,25740.32,USD,Ramsey-Barnett,IT,One-shot Software Purchase
+T0250,2025-02-14,Procurement of Raw Materials from Orozco-Davis,48555.06,USD,Orozco-Davis,Manufacturing,Raw Materials
+T0251,2025-01-21,"Procurement of Temporary Staff from Monroe, Bryant and Dennis",33003.29,EUR,"Monroe, Bryant and Dennis",HR & Training,Temporary Staff
+T0252,2025-02-10,Procurement of Recruitment Services from Jones Group,7697.72,EUR,Jones Group,HR & Training,Recruitment Services
+T0253,2025-03-04,"Procurement of Recruitment Services from Sherman, Colon and Moore",29260.01,EUR,"Sherman, Colon and Moore",HR & Training,Recruitment Services
+T0254,2025-01-24,Procurement of Last-mile Delivery from Hanna Ltd,21991.5,GBP,Hanna Ltd,Logistics,Last-mile Delivery
+T0255,2025-03-24,Procurement of Employee Training from Haley Group,22758.64,GBP,Haley Group,HR & Training,Employee Training
+T0256,2024-12-29,Procurement of expedite clicks-and-mortar deliverables from Matthews LLC,33189.11,USD,Matthews LLC,,
+T0257,2025-02-04,"Procurement of Facility Maintenance from Phillips, Allen and Smith",47477.9,EUR,"Phillips, Allen and Smith",Manufacturing,Facility Maintenance
+T0258,2025-01-19,"Procurement of productize web-enabled web services from Adams, Young and Hodges",509.0,GBP,"Adams, Young and Hodges",,
+T0259,2025-02-13,Procurement of aggregate sticky paradigms from Matthews LLC,10942.61,GBP,Matthews LLC,,
+T0260,2025-01-26,"Procurement of syndicate ubiquitous initiatives from Sanchez, Wu and Smith",38125.5,EUR,"Sanchez, Wu and Smith",,
+T0261,2025-02-07,"Procurement of Employee Training from Huff, Thompson and Day",38403.78,GBP,"Huff, Thompson and Day",HR & Training,Employee Training
+T0262,2025-01-24,Procurement of Digital Advertising from Davis-Smith,46897.68,EUR,Davis-Smith,Marketing,Digital Advertising
+T0263,2025-02-16,Procurement of Cold Chain Transport from Phelps-Beck,8990.89,USD,Phelps-Beck,Logistics,Cold Chain Transport
+T0264,2025-01-06,Procurement of Research Services from Dunlap-Weiss,33020.83,GBP,Dunlap-Weiss,R&D,Research Services
+T0265,2025-03-06,Procurement of Facility Maintenance from Johnson Ltd,47446.26,EUR,Johnson Ltd,Manufacturing,Facility Maintenance
+T0266,2025-03-16,Procurement of Print Media from Russell-Kim,21570.15,USD,Russell-Kim,Marketing,Print Media
+T0267,2025-03-18,Procurement of morph ubiquitous deliverables from Wolfe-Lopez,12864.65,EUR,Wolfe-Lopez,,
+T0268,2025-03-10,"Procurement of Temporary Staff from Jennings, Lawrence and Jackson",6482.7,USD,"Jennings, Lawrence and Jackson",HR & Training,Temporary Staff
+T0269,2025-01-04,Procurement of morph strategic paradigms from Cross Inc,14534.23,USD,Cross Inc,,
+T0270,2025-03-17,Procurement of Lab Equipment from Wall PLC,23936.5,GBP,Wall PLC,R&D,Lab Equipment
+T0271,2025-01-26,Procurement of utilize value-added users from Nolan LLC,8210.28,USD,Nolan LLC,,
+T0272,2025-03-15,Procurement of aggregate turn-key schemas from Horton Group,42829.56,USD,Horton Group,,
+T0273,2025-02-24,Procurement of transition dot-com e-markets from Benton-Wang,7376.63,EUR,Benton-Wang,,
+T0274,2025-01-20,"Procurement of Temporary Staff from Green, Thompson and Paul",11079.11,EUR,"Green, Thompson and Paul",HR & Training,Temporary Staff
+T0275,2025-02-01,Procurement of Facility Maintenance from Combs PLC,4709.93,EUR,Combs PLC,Manufacturing,Facility Maintenance
+T0276,2025-01-10,"Procurement of optimize back-end models from Townsend, Harper and Baker",47499.63,EUR,"Townsend, Harper and Baker",,
+T0277,2025-03-15,Procurement of mesh world-class models from Davis-Smith,13161.99,EUR,Davis-Smith,,
+T0278,2025-01-14,"Procurement of Production Equipment from Smith, Aguilar and Finley",7537.24,USD,"Smith, Aguilar and Finley",Manufacturing,Production Equipment
+T0279,2025-01-13,"Procurement of enable cross-platform models from Monroe, Bryant and Dennis",18297.95,USD,"Monroe, Bryant and Dennis",,
+T0280,2025-03-14,Procurement of aggregate one-to-one experiences from Smith and Sons,31447.71,EUR,Smith and Sons,,
+T0281,2025-01-03,Procurement of utilize scalable communities from Perry LLC,36177.4,GBP,Perry LLC,,
+T0282,2025-02-17,Procurement of Print Media from Nolan LLC,29497.5,USD,Nolan LLC,Marketing,Print Media
+T0283,2025-03-25,Procurement of streamline world-class vortals from Hughes-Payne,40060.49,USD,Hughes-Payne,,
+T0284,2025-02-15,Procurement of transition user-centric web-readiness from Mathews and Sons,13626.98,USD,Mathews and Sons,,
+T0285,2024-12-26,Procurement of Recurrent SaaS License from Nolan LLC,29210.8,GBP,Nolan LLC,IT,Recurrent SaaS License
+T0286,2025-03-01,Procurement of incentivize world-class web services from Collins-Donovan,46434.99,USD,Collins-Donovan,,
+T0287,2025-01-12,Procurement of seize end-to-end models from Davis-Smith,3005.48,USD,Davis-Smith,,
+T0288,2025-01-27,Procurement of Event Sponsorship from Collins-Donovan,637.24,USD,Collins-Donovan,Marketing,Event Sponsorship
+T0289,2025-01-13,"Procurement of Last-mile Delivery from Cain, Price and Lozano",7084.4,GBP,"Cain, Price and Lozano",Logistics,Last-mile Delivery
+T0290,2025-01-15,"Procurement of Recurrent SaaS License from Murillo, Jackson and Guerrero",10911.83,GBP,"Murillo, Jackson and Guerrero",IT,Recurrent SaaS License
+T0291,2025-03-10,Procurement of Clinical Trials from Webb-Tucker,8833.84,EUR,Webb-Tucker,R&D,Clinical Trials
+T0292,2025-02-18,Procurement of Lab Equipment from Stanley and Sons,35608.14,EUR,Stanley and Sons,R&D,Lab Equipment
+T0293,2025-01-11,Procurement of Recruitment Services from Watson-Carson,14692.83,USD,Watson-Carson,HR & Training,Recruitment Services
+T0294,2025-02-19,Procurement of Last-mile Delivery from Silva PLC,6822.88,GBP,Silva PLC,Logistics,Last-mile Delivery
+T0295,2025-02-05,Procurement of target strategic channels from Rodriguez LLC,27703.94,USD,Rodriguez LLC,,
+T0296,2025-02-25,Procurement of deploy synergistic ROI from Jones Group,35777.53,EUR,Jones Group,,
+T0297,2025-02-24,Procurement of One-shot Software Purchase from Nelson Group,21383.44,GBP,Nelson Group,IT,One-shot Software Purchase
+T0298,2025-01-12,"Procurement of One-shot Software Purchase from Randolph, Salas and Vasquez",10402.32,EUR,"Randolph, Salas and Vasquez",IT,One-shot Software Purchase
+T0299,2025-02-04,"Procurement of Print Media from Berry, Adkins and Davis",39012.49,USD,"Berry, Adkins and Davis",Marketing,Print Media
+T0300,2025-01-08,"Procurement of streamline ubiquitous solutions from Hooper, Robinson and Little",45984.67,EUR,"Hooper, Robinson and Little",,
+T0301,2025-03-01,"Procurement of innovate 24/7 action-items from Lopez, Golden and Calhoun",820.63,EUR,"Lopez, Golden and Calhoun",,
+T0302,2025-02-17,Procurement of productize compelling mindshare from Wang LLC,19644.3,EUR,Wang LLC,,
+T0303,2025-02-15,Procurement of redefine 24/7 infrastructures from Brooks LLC,36163.39,GBP,Brooks LLC,,
+T0304,2025-02-11,Procurement of Production Equipment from Hanna Ltd,36593.65,EUR,Hanna Ltd,Manufacturing,Production Equipment
+T0305,2025-01-30,"Procurement of Production Equipment from Day, Long and Bell",42106.4,EUR,"Day, Long and Bell",Manufacturing,Production Equipment
+T0306,2025-02-07,Procurement of Last-mile Delivery from Newman LLC,11371.74,GBP,Newman LLC,Logistics,Last-mile Delivery
+T0307,2025-01-13,Procurement of deliver vertical e-commerce from Matthews LLC,12877.78,EUR,Matthews LLC,,
+T0308,2025-03-17,"Procurement of engineer interactive metrics from Perez, Blackwell and Mckee",45064.58,EUR,"Perez, Blackwell and Mckee",,
+T0309,2025-02-11,Procurement of generate synergistic markets from Juarez Inc,1443.67,USD,Juarez Inc,,
+T0310,2025-02-22,Procurement of Research Services from Jones Group,7311.31,EUR,Jones Group,R&D,Research Services
+T0311,2025-03-22,Procurement of Print Media from Stanley and Sons,46586.88,GBP,Stanley and Sons,Marketing,Print Media
+T0312,2025-02-11,Procurement of implement virtual deliverables from Russell-Kim,8756.73,GBP,Russell-Kim,,
+T0313,2025-02-04,Procurement of maximize granular e-commerce from Stanley and Sons,7808.33,EUR,Stanley and Sons,,
+T0314,2025-03-09,"Procurement of Cold Chain Transport from Day, Long and Bell",36596.07,EUR,"Day, Long and Bell",Logistics,Cold Chain Transport
+T0315,2025-02-22,"Procurement of Clinical Trials from Howard, Charles and Oneill",24710.31,USD,"Howard, Charles and Oneill",R&D,Clinical Trials
+T0316,2024-12-28,Procurement of streamline viral convergence from Hanna Ltd,15506.0,USD,Hanna Ltd,,
+T0317,2025-03-04,Procurement of expedite e-business web services from Avila-Miller,24239.59,GBP,Avila-Miller,,
+T0318,2025-03-05,Procurement of implement bricks-and-clicks e-business from Hanna Ltd,38653.59,GBP,Hanna Ltd,,
+T0319,2025-03-17,Procurement of Event Sponsorship from Gilbert-Velazquez,15119.02,EUR,Gilbert-Velazquez,Marketing,Event Sponsorship
+T0320,2025-02-16,"Procurement of Employee Training from Day, Long and Bell",40332.14,EUR,"Day, Long and Bell",HR & Training,Employee Training
+T0321,2025-01-11,Procurement of Production Equipment from Matthews LLC,45276.37,GBP,Matthews LLC,Manufacturing,Production Equipment
+T0322,2025-03-24,Procurement of Print Media from Avila-Miller,44127.91,USD,Avila-Miller,Marketing,Print Media
+T0323,2025-02-24,Procurement of Research Services from Banks-Tate,11950.66,USD,Banks-Tate,R&D,Research Services
+T0324,2025-02-24,"Procurement of Print Media from Townsend, Harper and Baker",49284.4,EUR,"Townsend, Harper and Baker",Marketing,Print Media
+T0325,2024-12-29,Procurement of Temporary Staff from Mathews and Sons,46713.19,USD,Mathews and Sons,HR & Training,Temporary Staff
+T0326,2025-01-23,Procurement of aggregate dynamic niches from Perry-Jackson,7224.27,USD,Perry-Jackson,,
+T0327,2025-01-26,"Procurement of Clinical Trials from Perez, Blackwell and Mckee",26803.3,GBP,"Perez, Blackwell and Mckee",R&D,Clinical Trials
+T0328,2025-03-14,Procurement of Recurrent SaaS License from Webb-Tucker,2415.77,EUR,Webb-Tucker,IT,Recurrent SaaS License
+T0329,2025-01-13,Procurement of optimize clicks-and-mortar bandwidth from Vargas-Becker,39458.06,USD,Vargas-Becker,,
+T0330,2025-02-08,"Procurement of Clinical Trials from Alvarado, Smith and Williams",15891.78,GBP,"Alvarado, Smith and Williams",R&D,Clinical Trials
+T0331,2024-12-29,Procurement of Digital Advertising from Hughes-Payne,12712.87,GBP,Hughes-Payne,Marketing,Digital Advertising
+T0332,2025-03-03,Procurement of Temporary Staff from Smith and Sons,46716.27,GBP,Smith and Sons,HR & Training,Temporary Staff
+T0333,2025-01-03,Procurement of visualize web-enabled initiatives from Haley Group,26157.7,USD,Haley Group,,
+T0334,2025-02-22,Procurement of Employee Training from Burgess PLC,40215.65,EUR,Burgess PLC,HR & Training,Employee Training
+T0335,2025-03-21,Procurement of maximize distributed technologies from Avila-Miller,8831.1,GBP,Avila-Miller,,
+T0336,2025-03-21,Procurement of Facility Maintenance from Perry LLC,33078.58,EUR,Perry LLC,Manufacturing,Facility Maintenance
+T0337,2025-01-07,"Procurement of Raw Materials from Day, Long and Bell",3495.25,USD,"Day, Long and Bell",Manufacturing,Raw Materials
+T0338,2024-12-30,Procurement of One-shot Software Purchase from Perry-Jackson,5930.09,GBP,Perry-Jackson,IT,One-shot Software Purchase
+T0339,2025-03-22,Procurement of Recruitment Services from Horton Group,10499.1,USD,Horton Group,HR & Training,Recruitment Services
+T0340,2025-02-01,Procurement of orchestrate rich platforms from Ramsey-Barnett,39325.18,GBP,Ramsey-Barnett,,
+T0341,2024-12-30,Procurement of empower transparent experiences from Contreras-Lucas,24651.94,EUR,Contreras-Lucas,,
+T0342,2025-01-23,"Procurement of Facility Maintenance from Smith, Aguilar and Finley",19452.83,EUR,"Smith, Aguilar and Finley",Manufacturing,Facility Maintenance
+T0343,2025-03-10,Procurement of optimize world-class e-tailers from Collins-Donovan,13672.72,GBP,Collins-Donovan,,
+T0344,2025-01-17,Procurement of Raw Materials from Matthews LLC,33976.25,USD,Matthews LLC,Manufacturing,Raw Materials
+T0345,2025-01-24,Procurement of Warehousing from Benton-Wang,45629.36,EUR,Benton-Wang,Logistics,Warehousing
+T0346,2025-03-16,Procurement of seize integrated schemas from Phelps-Beck,24181.78,USD,Phelps-Beck,,
+T0347,2025-01-06,Procurement of Recurrent SaaS License from Hughes-Payne,35520.99,GBP,Hughes-Payne,IT,Recurrent SaaS License
+T0348,2025-03-01,Procurement of Temporary Staff from Ramsey-Barnett,21281.15,GBP,Ramsey-Barnett,HR & Training,Temporary Staff
+T0349,2025-01-09,Procurement of Raw Materials from Humphrey Ltd,24100.63,GBP,Humphrey Ltd,Manufacturing,Raw Materials
+T0350,2025-01-21,Procurement of Temporary Staff from Melton PLC,6562.33,USD,Melton PLC,HR & Training,Temporary Staff
+T0351,2025-03-05,Procurement of Last-mile Delivery from Cross Inc,12926.26,USD,Cross Inc,Logistics,Last-mile Delivery
+T0352,2025-02-08,"Procurement of Event Sponsorship from Monroe, Bryant and Dennis",1883.13,USD,"Monroe, Bryant and Dennis",Marketing,Event Sponsorship
+T0353,2025-03-08,Procurement of Clinical Trials from Gilbert-Velazquez,4836.34,GBP,Gilbert-Velazquez,R&D,Clinical Trials
+T0354,2025-02-26,Procurement of Employee Training from Orozco-Davis,33142.91,USD,Orozco-Davis,HR & Training,Employee Training
+T0355,2025-03-11,"Procurement of facilitate ubiquitous models from Sanchez, Wu and Smith",36080.67,USD,"Sanchez, Wu and Smith",,
+T0356,2025-03-17,"Procurement of Last-mile Delivery from Green, Thompson and Paul",2147.64,GBP,"Green, Thompson and Paul",Logistics,Last-mile Delivery
+T0357,2025-01-08,Procurement of Lab Equipment from Coleman Inc,35025.69,USD,Coleman Inc,R&D,Lab Equipment
+T0358,2025-03-16,Procurement of Production Equipment from Williams PLC,40413.55,GBP,Williams PLC,Manufacturing,Production Equipment
+T0359,2025-01-23,"Procurement of Print Media from Day, Long and Bell",848.49,GBP,"Day, Long and Bell",Marketing,Print Media
+T0360,2025-01-26,Procurement of extend robust technologies from Taylor PLC,26132.49,USD,Taylor PLC,,
+T0361,2025-02-22,"Procurement of Facility Maintenance from Green, Thompson and Paul",5237.63,EUR,"Green, Thompson and Paul",Manufacturing,Facility Maintenance
+T0362,2025-03-01,Procurement of Print Media from Silva PLC,33166.28,USD,Silva PLC,Marketing,Print Media
+T0363,2025-01-24,Procurement of Recruitment Services from Smith Inc,36668.8,EUR,Smith Inc,HR & Training,Recruitment Services
+T0364,2025-03-14,Procurement of Print Media from Wang LLC,32664.94,USD,Wang LLC,Marketing,Print Media
+T0365,2025-01-09,Procurement of Lab Equipment from Rodriguez Group,18242.91,USD,Rodriguez Group,R&D,Lab Equipment
+T0366,2025-02-04,Procurement of Lab Equipment from Bailey-Sanchez,34750.1,GBP,Bailey-Sanchez,R&D,Lab Equipment
+T0367,2025-01-20,"Procurement of engage wireless bandwidth from Monroe, Bryant and Dennis",18135.99,USD,"Monroe, Bryant and Dennis",,
+T0368,2025-03-09,Procurement of Professional IT Services from Collins-Donovan,48015.94,EUR,Collins-Donovan,IT,Professional IT Services
+T0369,2025-01-18,Procurement of re-intermediate front-end models from Rodriguez Group,33704.47,EUR,Rodriguez Group,,
+T0370,2025-01-21,Procurement of expedite impactful interfaces from Wall PLC,36538.38,USD,Wall PLC,,
+T0371,2025-03-21,"Procurement of integrate strategic convergence from Smith, Aguilar and Finley",38018.89,USD,"Smith, Aguilar and Finley",,
+T0372,2025-01-06,Procurement of enhance vertical paradigms from Patel LLC,7868.54,EUR,Patel LLC,,
+T0373,2025-03-05,Procurement of Print Media from Hanna Ltd,25258.64,USD,Hanna Ltd,Marketing,Print Media
+T0374,2025-03-15,Procurement of Raw Materials from Russell-Kim,24014.52,EUR,Russell-Kim,Manufacturing,Raw Materials
+T0375,2025-03-11,Procurement of reinvent wireless deliverables from Taylor PLC,40222.93,GBP,Taylor PLC,,
+T0376,2025-01-30,"Procurement of Production Equipment from West, Jones and Koch",25704.07,EUR,"West, Jones and Koch",Manufacturing,Production Equipment
+T0377,2025-02-15,Procurement of Digital Advertising from Russell-Kim,23707.48,GBP,Russell-Kim,Marketing,Digital Advertising
+T0378,2025-02-14,Procurement of Facility Maintenance from Humphrey Ltd,36976.49,USD,Humphrey Ltd,Manufacturing,Facility Maintenance
+T0379,2025-01-01,Procurement of Facility Maintenance from Mathews and Sons,1341.26,USD,Mathews and Sons,Manufacturing,Facility Maintenance
+T0380,2025-01-12,Procurement of Print Media from Phelps-Beck,12155.06,GBP,Phelps-Beck,Marketing,Print Media
+T0381,2025-01-11,Procurement of Temporary Staff from Young-Anderson,7450.79,USD,Young-Anderson,HR & Training,Temporary Staff
+T0382,2025-02-04,Procurement of Facility Maintenance from Coleman Inc,20722.93,USD,Coleman Inc,Manufacturing,Facility Maintenance
+T0383,2024-12-26,Procurement of strategize end-to-end initiatives from Johnson Ltd,46417.35,GBP,Johnson Ltd,,
+T0384,2025-03-15,Procurement of target viral methodologies from Perry-Jackson,36396.18,GBP,Perry-Jackson,,
+T0385,2025-01-19,Procurement of One-shot Software Purchase from Hanna Ltd,48793.06,USD,Hanna Ltd,IT,One-shot Software Purchase
+T0386,2025-03-07,Procurement of deploy intuitive content from Orozco-Davis,10755.46,GBP,Orozco-Davis,,
+T0387,2025-02-26,Procurement of Raw Materials from Perry LLC,28308.14,USD,Perry LLC,Manufacturing,Raw Materials
+T0388,2025-02-08,Procurement of deliver robust experiences from Matthews LLC,31902.43,USD,Matthews LLC,,
+T0389,2025-01-17,"Procurement of maximize cross-media vortals from Scott, West and Brown",33482.58,USD,"Scott, West and Brown",,
+T0390,2025-02-18,"Procurement of One-shot Software Purchase from Jennings, Lawrence and Jackson",945.22,USD,"Jennings, Lawrence and Jackson",IT,One-shot Software Purchase
+T0391,2025-01-12,Procurement of Clinical Trials from Young-Anderson,40274.34,USD,Young-Anderson,R&D,Clinical Trials
+T0392,2025-01-15,Procurement of Event Sponsorship from Young-Anderson,43193.12,EUR,Young-Anderson,Marketing,Event Sponsorship
+T0393,2025-01-28,Procurement of Raw Materials from Russell-Kim,29007.57,EUR,Russell-Kim,Manufacturing,Raw Materials
+T0394,2025-01-15,Procurement of Recruitment Services from Burgess PLC,28250.59,EUR,Burgess PLC,HR & Training,Recruitment Services
+T0395,2025-02-24,Procurement of Professional IT Services from Wang LLC,39761.59,GBP,Wang LLC,IT,Professional IT Services
+T0396,2025-03-16,Procurement of envisioneer magnetic bandwidth from Wall PLC,8298.98,USD,Wall PLC,,
+T0397,2025-02-20,Procurement of Raw Materials from Gilbert-Velazquez,49106.36,EUR,Gilbert-Velazquez,Manufacturing,Raw Materials
+T0398,2025-01-22,Procurement of Cold Chain Transport from Combs PLC,41203.38,USD,Combs PLC,Logistics,Cold Chain Transport
+T0399,2025-03-11,"Procurement of drive rich niches from Huff, Thompson and Day",8658.38,USD,"Huff, Thompson and Day",,
+T0400,2025-03-22,"Procurement of Lab Equipment from Alvarado, Smith and Williams",15307.28,EUR,"Alvarado, Smith and Williams",R&D,Lab Equipment
+T0401,2024-12-31,Procurement of Professional IT Services from Benton-Wang,9412.87,GBP,Benton-Wang,IT,Professional IT Services
+T0402,2025-01-15,Procurement of Facility Maintenance from Newman LLC,33937.4,USD,Newman LLC,Manufacturing,Facility Maintenance
+T0403,2024-12-26,Procurement of Professional IT Services from Bailey-Sanchez,40876.73,USD,Bailey-Sanchez,IT,Professional IT Services
+T0404,2025-02-19,"Procurement of Temporary Staff from Phillips, Allen and Smith",39960.98,EUR,"Phillips, Allen and Smith",HR & Training,Temporary Staff
+T0405,2025-02-23,"Procurement of e-enable dynamic architectures from West, Jones and Koch",2031.34,EUR,"West, Jones and Koch",,
+T0406,2025-03-22,Procurement of One-shot Software Purchase from Dunlap-Weiss,48197.36,EUR,Dunlap-Weiss,IT,One-shot Software Purchase
+T0407,2025-01-31,Procurement of mesh seamless action-items from Johnson Ltd,13117.38,EUR,Johnson Ltd,,
+T0408,2025-01-24,"Procurement of e-enable synergistic experiences from Townsend, Harper and Baker",7712.15,USD,"Townsend, Harper and Baker",,
+T0409,2025-01-31,Procurement of Production Equipment from Smith and Sons,5696.82,GBP,Smith and Sons,Manufacturing,Production Equipment
+T0410,2025-02-17,Procurement of reinvent global e-tailers from Watson-Smith,23125.35,EUR,Watson-Smith,,
+T0411,2025-01-07,Procurement of Raw Materials from Taylor PLC,14366.69,EUR,Taylor PLC,Manufacturing,Raw Materials
+T0412,2025-02-11,"Procurement of Print Media from Sanchez, Wu and Smith",2647.16,GBP,"Sanchez, Wu and Smith",Marketing,Print Media
+T0413,2025-02-23,Procurement of Employee Training from Rodriguez Group,38268.78,GBP,Rodriguez Group,HR & Training,Employee Training
+T0414,2025-02-13,Procurement of Facility Maintenance from Reid-Reynolds,27168.0,GBP,Reid-Reynolds,Manufacturing,Facility Maintenance
+T0415,2024-12-30,Procurement of architect interactive networks from Johnson Ltd,6000.03,GBP,Johnson Ltd,,
+T0416,2025-01-04,Procurement of monetize dynamic channels from Watson-Carson,34772.89,GBP,Watson-Carson,,
+T0417,2025-01-29,Procurement of optimize collaborative content from Burgess PLC,18016.61,USD,Burgess PLC,,
+T0418,2025-02-06,Procurement of empower cross-platform e-tailers from Horton Group,14609.2,GBP,Horton Group,,
+T0419,2025-01-31,Procurement of Warehousing from Haley Group,44851.62,GBP,Haley Group,Logistics,Warehousing
+T0420,2025-01-10,"Procurement of One-shot Software Purchase from Murillo, Jackson and Guerrero",15824.76,USD,"Murillo, Jackson and Guerrero",IT,One-shot Software Purchase
+T0421,2025-03-04,Procurement of target robust bandwidth from Melton PLC,29071.13,EUR,Melton PLC,,
+T0422,2025-03-11,Procurement of benchmark 24/365 partnerships from Phelps-Beck,47491.55,USD,Phelps-Beck,,
+T0423,2025-01-31,"Procurement of Production Equipment from Cook, Rivera and Cox",4054.26,EUR,"Cook, Rivera and Cox",Manufacturing,Production Equipment
+T0424,2025-01-11,"Procurement of Warehousing from Bell, Shaffer and Zamora",45490.8,EUR,"Bell, Shaffer and Zamora",Logistics,Warehousing
+T0425,2025-03-08,Procurement of morph dynamic architectures from Watson-Smith,43528.69,USD,Watson-Smith,,
+T0426,2025-03-10,Procurement of One-shot Software Purchase from Rodriguez Group,18879.81,USD,Rodriguez Group,IT,One-shot Software Purchase
+T0427,2025-03-08,Procurement of Print Media from Hanna Ltd,6844.73,USD,Hanna Ltd,Marketing,Print Media
+T0428,2025-03-06,Procurement of extend cutting-edge e-markets from Mitchell Ltd,17022.22,EUR,Mitchell Ltd,,
+T0429,2025-02-08,Procurement of Event Sponsorship from Newman LLC,17028.37,GBP,Newman LLC,Marketing,Event Sponsorship
+T0430,2025-02-19,Procurement of Clinical Trials from Johnson Ltd,6435.0,GBP,Johnson Ltd,R&D,Clinical Trials
+T0431,2025-03-23,Procurement of Research Services from Mitchell Ltd,37443.84,USD,Mitchell Ltd,R&D,Research Services
+T0432,2025-03-22,"Procurement of envisioneer cutting-edge methodologies from May, Osborne and Randolph",9680.63,GBP,"May, Osborne and Randolph",,
+T0433,2024-12-25,Procurement of Clinical Trials from Silva PLC,44849.86,EUR,Silva PLC,R&D,Clinical Trials
+T0434,2025-02-27,Procurement of Professional IT Services from Avila-Miller,17371.03,USD,Avila-Miller,IT,Professional IT Services
+T0435,2025-02-11,Procurement of Lab Equipment from Rodriguez LLC,42526.63,GBP,Rodriguez LLC,R&D,Lab Equipment
+T0436,2025-02-20,Procurement of Raw Materials from Smith and Sons,31984.98,EUR,Smith and Sons,Manufacturing,Raw Materials
+T0437,2025-03-05,Procurement of redefine B2C relationships from Smith and Sons,47161.02,USD,Smith and Sons,,
+T0438,2025-01-02,Procurement of Print Media from Davis-Smith,41009.97,GBP,Davis-Smith,Marketing,Print Media
+T0439,2025-03-16,Procurement of revolutionize sticky infrastructures from Horton Group,39387.01,EUR,Horton Group,,
+T0440,2024-12-25,Procurement of innovate back-end eyeballs from Stanley and Sons,34221.72,USD,Stanley and Sons,,
+T0441,2024-12-28,Procurement of transition dot-com e-markets from Gilbert-Velazquez,3543.11,USD,Gilbert-Velazquez,,
+T0442,2025-02-04,Procurement of Warehousing from Young-Anderson,35981.16,USD,Young-Anderson,Logistics,Warehousing
+T0443,2025-01-14,Procurement of Temporary Staff from Erickson-Larson,11422.21,GBP,Erickson-Larson,HR & Training,Temporary Staff
+T0444,2025-03-13,"Procurement of monetize back-end relationships from Day, Long and Bell",8639.48,USD,"Day, Long and Bell",,
+T0445,2025-02-01,Procurement of scale value-added initiatives from Stanley and Sons,28857.98,USD,Stanley and Sons,,
+T0446,2025-01-07,Procurement of Facility Maintenance from Burgess PLC,20373.43,EUR,Burgess PLC,Manufacturing,Facility Maintenance
+T0447,2024-12-25,Procurement of extend leading-edge ROI from Bailey-Sanchez,11657.77,GBP,Bailey-Sanchez,,
+T0448,2024-12-31,Procurement of Production Equipment from Vargas-Becker,22992.46,GBP,Vargas-Becker,Manufacturing,Production Equipment
+T0449,2025-02-22,Procurement of Digital Advertising from Matthews LLC,49620.89,USD,Matthews LLC,Marketing,Digital Advertising
+T0450,2025-01-26,"Procurement of re-intermediate intuitive technologies from Smith, Aguilar and Finley",38673.43,GBP,"Smith, Aguilar and Finley",,
+T0451,2025-02-28,"Procurement of cultivate cutting-edge vortals from Olson, Stein and Baker",6194.54,GBP,"Olson, Stein and Baker",,
+T0452,2025-03-15,Procurement of Production Equipment from Stanley and Sons,29054.74,GBP,Stanley and Sons,Manufacturing,Production Equipment
+T0453,2024-12-27,"Procurement of Employee Training from Smith, Aguilar and Finley",32453.07,USD,"Smith, Aguilar and Finley",HR & Training,Employee Training
+T0454,2025-02-23,Procurement of Event Sponsorship from Young-Anderson,47987.46,EUR,Young-Anderson,Marketing,Event Sponsorship
+T0455,2025-01-18,Procurement of Employee Training from Combs PLC,30795.51,USD,Combs PLC,HR & Training,Employee Training
+T0456,2025-01-11,Procurement of Recurrent SaaS License from Contreras-Lucas,19568.1,GBP,Contreras-Lucas,IT,Recurrent SaaS License
+T0457,2025-02-01,Procurement of Temporary Staff from Perry-Jackson,6787.86,EUR,Perry-Jackson,HR & Training,Temporary Staff
+T0458,2025-02-28,"Procurement of Clinical Trials from Smith, Aguilar and Finley",19835.03,EUR,"Smith, Aguilar and Finley",R&D,Clinical Trials
+T0459,2025-02-19,"Procurement of Lab Equipment from Jennings, Lawrence and Jackson",43344.19,EUR,"Jennings, Lawrence and Jackson",R&D,Lab Equipment
+T0460,2025-02-26,"Procurement of Raw Materials from Scott, West and Brown",38881.76,USD,"Scott, West and Brown",Manufacturing,Raw Materials
+T0461,2025-02-24,"Procurement of expedite enterprise experiences from Huff, Thompson and Day",5327.83,GBP,"Huff, Thompson and Day",,
+T0462,2025-03-08,Procurement of Research Services from Perry LLC,38852.17,EUR,Perry LLC,R&D,Research Services
+T0463,2025-01-16,Procurement of Clinical Trials from Hughes-Payne,48104.14,USD,Hughes-Payne,R&D,Clinical Trials
+T0464,2025-03-22,Procurement of transform world-class eyeballs from Mason-Warren,31245.24,GBP,Mason-Warren,,
+T0465,2025-01-05,"Procurement of Event Sponsorship from Murillo, Jackson and Guerrero",9303.1,USD,"Murillo, Jackson and Guerrero",Marketing,Event Sponsorship
+T0466,2024-12-25,"Procurement of Clinical Trials from Howard, Charles and Oneill",15163.37,GBP,"Howard, Charles and Oneill",R&D,Clinical Trials
+T0467,2025-03-11,Procurement of One-shot Software Purchase from Taylor PLC,32593.71,EUR,Taylor PLC,IT,One-shot Software Purchase
+T0468,2025-02-22,Procurement of Clinical Trials from Benton-Wang,41031.47,GBP,Benton-Wang,R&D,Clinical Trials
+T0469,2025-01-13,"Procurement of innovate back-end e-services from Mcdonald, Frederick and West",26227.02,GBP,"Mcdonald, Frederick and West",,
+T0470,2025-01-22,Procurement of revolutionize frictionless solutions from Coleman Inc,37978.83,GBP,Coleman Inc,,
+T0471,2025-02-01,Procurement of Clinical Trials from Mason-Warren,5059.16,GBP,Mason-Warren,R&D,Clinical Trials
+T0472,2025-03-05,"Procurement of transition B2B experiences from Green, Thompson and Paul",13697.11,USD,"Green, Thompson and Paul",,
+T0473,2024-12-31,Procurement of integrate intuitive deliverables from Orozco-Davis,30817.95,USD,Orozco-Davis,,
+T0474,2025-03-22,Procurement of revolutionize cross-media relationships from Stanley and Sons,31648.9,EUR,Stanley and Sons,,
+T0475,2025-02-04,Procurement of Print Media from Bailey-Sanchez,2178.29,GBP,Bailey-Sanchez,Marketing,Print Media
+T0476,2025-02-10,"Procurement of facilitate customized content from Mendez, Brennan and Yu",28622.47,USD,"Mendez, Brennan and Yu",,
+T0477,2025-03-14,"Procurement of synergize cross-platform e-commerce from Ho, Nguyen and Williams",19894.21,USD,"Ho, Nguyen and Williams",,
+T0478,2025-02-26,"Procurement of maximize mission-critical platforms from Mendez, Brennan and Yu",31529.77,GBP,"Mendez, Brennan and Yu",,
+T0479,2025-02-22,Procurement of evolve bleeding-edge action-items from Mason-Warren,22234.93,GBP,Mason-Warren,,
+T0480,2025-02-13,Procurement of Recruitment Services from Horton Group,16651.84,USD,Horton Group,HR & Training,Recruitment Services
+T0481,2025-01-17,Procurement of Print Media from Matthews LLC,16207.51,EUR,Matthews LLC,Marketing,Print Media
+T0482,2025-03-14,Procurement of Lab Equipment from Orozco-Davis,758.09,GBP,Orozco-Davis,R&D,Lab Equipment
+T0483,2025-03-19,"Procurement of Temporary Staff from Smith, Aguilar and Finley",24142.69,USD,"Smith, Aguilar and Finley",HR & Training,Temporary Staff
+T0484,2025-01-23,"Procurement of Digital Advertising from Adams, Young and Hodges",4241.63,USD,"Adams, Young and Hodges",Marketing,Digital Advertising
+T0485,2025-01-28,Procurement of Last-mile Delivery from Nolan LLC,17806.41,GBP,Nolan LLC,Logistics,Last-mile Delivery
+T0486,2025-03-25,"Procurement of Print Media from Jennings, Lawrence and Jackson",35773.27,EUR,"Jennings, Lawrence and Jackson",Marketing,Print Media
+T0487,2025-01-14,Procurement of Facility Maintenance from Hill PLC,17830.39,GBP,Hill PLC,Manufacturing,Facility Maintenance
+T0488,2025-02-15,Procurement of Digital Advertising from Wolfe-Lopez,17544.87,EUR,Wolfe-Lopez,Marketing,Digital Advertising
+T0489,2025-02-26,Procurement of enhance visionary supply-chains from Perry LLC,4067.44,EUR,Perry LLC,,
+T0490,2025-03-18,Procurement of Clinical Trials from Nolan LLC,2023.85,EUR,Nolan LLC,R&D,Clinical Trials
+T0491,2025-03-24,Procurement of Temporary Staff from Young-Anderson,44694.73,GBP,Young-Anderson,HR & Training,Temporary Staff
+T0492,2025-03-16,Procurement of Research Services from Webb-Tucker,15286.52,USD,Webb-Tucker,R&D,Research Services
+T0493,2025-03-02,Procurement of Recurrent SaaS License from Hunt-Bennett,25926.76,USD,Hunt-Bennett,IT,Recurrent SaaS License
+T0494,2025-03-25,Procurement of Production Equipment from Russell-Kim,48537.42,GBP,Russell-Kim,Manufacturing,Production Equipment
+T0495,2025-01-06,Procurement of Recurrent SaaS License from Wang LLC,7526.55,GBP,Wang LLC,IT,Recurrent SaaS License
+T0496,2024-12-31,Procurement of Lab Equipment from Banks-Tate,35322.42,EUR,Banks-Tate,R&D,Lab Equipment
+T0497,2025-01-23,Procurement of mesh out-of-the-box experiences from Watson-Smith,30253.93,USD,Watson-Smith,,
+T0498,2025-02-25,Procurement of repurpose next-generation niches from Juarez Inc,42415.86,EUR,Juarez Inc,,
+T0499,2025-01-07,"Procurement of engage sticky convergence from Sherman, Colon and Moore",2335.28,USD,"Sherman, Colon and Moore",,
+T0500,2025-03-04,Procurement of Last-mile Delivery from Johnson-Farmer,47331.43,USD,Johnson-Farmer,Logistics,Last-mile Delivery
+T0501,2025-01-03,Procurement of Facility Maintenance from Vargas-Becker,11168.82,USD,Vargas-Becker,Manufacturing,Facility Maintenance
+T0502,2025-02-21,Procurement of drive compelling solutions from Coleman Inc,25119.39,USD,Coleman Inc,,
+T0503,2025-02-04,"Procurement of Print Media from Smith, Aguilar and Finley",3001.75,GBP,"Smith, Aguilar and Finley",Marketing,Print Media
+T0504,2025-02-06,Procurement of brand robust ROI from Rodriguez Group,3946.98,EUR,Rodriguez Group,,
+T0505,2025-01-19,Procurement of Last-mile Delivery from Smith Inc,14051.17,GBP,Smith Inc,Logistics,Last-mile Delivery
+T0506,2025-03-25,Procurement of Clinical Trials from Wolfe-Lopez,42778.12,USD,Wolfe-Lopez,R&D,Clinical Trials
+T0507,2025-02-04,Procurement of architect distributed convergence from Patterson-Clayton,35488.21,GBP,Patterson-Clayton,,
+T0508,2025-01-25,"Procurement of unleash transparent users from Hoffman, Mcintyre and Mckenzie",38374.52,EUR,"Hoffman, Mcintyre and Mckenzie",,
+T0509,2025-02-09,"Procurement of Temporary Staff from Townsend, Harper and Baker",22373.55,EUR,"Townsend, Harper and Baker",HR & Training,Temporary Staff
+T0510,2025-01-01,Procurement of One-shot Software Purchase from Adams-Patel,32079.65,EUR,Adams-Patel,IT,One-shot Software Purchase
+T0511,2025-03-14,"Procurement of Cold Chain Transport from Adams, Young and Hodges",12438.1,EUR,"Adams, Young and Hodges",Logistics,Cold Chain Transport
+T0512,2025-02-20,Procurement of Cold Chain Transport from Malone-Whitaker,46870.95,GBP,Malone-Whitaker,Logistics,Cold Chain Transport
+T0513,2025-02-01,Procurement of whiteboard collaborative action-items from Haley Group,6018.69,GBP,Haley Group,,
+T0514,2025-01-08,Procurement of drive back-end functionalities from Young-Anderson,13734.55,EUR,Young-Anderson,,
+T0515,2025-01-02,Procurement of Event Sponsorship from Wang LLC,1433.72,USD,Wang LLC,Marketing,Event Sponsorship
+T0516,2025-01-04,"Procurement of Temporary Staff from Scott, West and Brown",18458.8,USD,"Scott, West and Brown",HR & Training,Temporary Staff
+T0517,2025-02-16,"Procurement of Recurrent SaaS License from Smith, Aguilar and Finley",30677.19,EUR,"Smith, Aguilar and Finley",IT,Recurrent SaaS License
+T0518,2025-02-27,Procurement of Recurrent SaaS License from Banks-Tate,40207.69,EUR,Banks-Tate,IT,Recurrent SaaS License
+T0519,2025-02-11,Procurement of Event Sponsorship from Erickson-Larson,38074.77,EUR,Erickson-Larson,Marketing,Event Sponsorship
+T0520,2025-02-04,"Procurement of Raw Materials from Townsend, Harper and Baker",30608.12,GBP,"Townsend, Harper and Baker",Manufacturing,Raw Materials
+T0521,2025-03-20,Procurement of Print Media from Martin and Sons,33201.15,EUR,Martin and Sons,Marketing,Print Media
+T0522,2025-02-21,Procurement of repurpose back-end e-tailers from Sherman-Martin,19862.2,EUR,Sherman-Martin,,
+T0523,2025-03-02,"Procurement of re-intermediate 24/365 portals from Ho, Nguyen and Williams",36352.97,EUR,"Ho, Nguyen and Williams",,
+T0524,2025-02-15,Procurement of orchestrate wireless methodologies from Coleman Inc,6041.91,EUR,Coleman Inc,,
+T0525,2025-02-28,"Procurement of Professional IT Services from Hooper, Robinson and Little",38632.88,USD,"Hooper, Robinson and Little",IT,Professional IT Services
+T0526,2025-03-07,"Procurement of synergize killer e-services from Jennings, Lawrence and Jackson",30254.91,GBP,"Jennings, Lawrence and Jackson",,
+T0527,2025-01-29,Procurement of Professional IT Services from Jones Group,33549.58,GBP,Jones Group,IT,Professional IT Services
+T0528,2025-02-06,Procurement of whiteboard open-source infrastructures from Haley Group,38669.91,USD,Haley Group,,
+T0529,2025-01-30,Procurement of Production Equipment from Dunlap-Weiss,36358.75,USD,Dunlap-Weiss,Manufacturing,Production Equipment
+T0530,2025-03-09,Procurement of Print Media from Ramsey-Barnett,28502.9,GBP,Ramsey-Barnett,Marketing,Print Media
+T0531,2025-03-22,Procurement of utilize bleeding-edge relationships from Sherman-Martin,38765.75,GBP,Sherman-Martin,,
+T0532,2025-03-02,"Procurement of Digital Advertising from Mcdonald, Frederick and West",49190.09,GBP,"Mcdonald, Frederick and West",Marketing,Digital Advertising
+T0533,2025-03-20,Procurement of innovate synergistic vortals from Gilbert-Velazquez,4302.05,EUR,Gilbert-Velazquez,,
+T0534,2025-02-20,"Procurement of Production Equipment from May, Osborne and Randolph",33017.85,GBP,"May, Osborne and Randolph",Manufacturing,Production Equipment
+T0535,2025-03-06,"Procurement of Recurrent SaaS License from Sherman, Colon and Moore",37884.77,GBP,"Sherman, Colon and Moore",IT,Recurrent SaaS License
+T0536,2025-03-08,Procurement of enhance killer action-items from Avila-Miller,1479.41,GBP,Avila-Miller,,
+T0537,2025-02-23,"Procurement of streamline dot-com info-mediaries from Adams, Young and Hodges",38337.38,GBP,"Adams, Young and Hodges",,
+T0538,2024-12-25,Procurement of Facility Maintenance from Collins-Donovan,22831.09,GBP,Collins-Donovan,Manufacturing,Facility Maintenance
+T0539,2025-03-18,Procurement of Last-mile Delivery from Sherman-Martin,18099.16,EUR,Sherman-Martin,Logistics,Last-mile Delivery
+T0540,2025-01-31,Procurement of Recruitment Services from Horton Group,16825.15,GBP,Horton Group,HR & Training,Recruitment Services
+T0541,2024-12-25,Procurement of Production Equipment from Williams PLC,10744.18,GBP,Williams PLC,Manufacturing,Production Equipment
+T0542,2025-02-02,Procurement of One-shot Software Purchase from Young-Anderson,35700.54,GBP,Young-Anderson,IT,One-shot Software Purchase
+T0543,2025-03-16,Procurement of Last-mile Delivery from Juarez Inc,44624.81,USD,Juarez Inc,Logistics,Last-mile Delivery
+T0544,2025-01-24,Procurement of Print Media from Smith Inc,15878.13,USD,Smith Inc,Marketing,Print Media
+T0545,2025-02-02,Procurement of scale vertical experiences from Rodriguez Group,39758.88,EUR,Rodriguez Group,,
+T0546,2025-03-19,Procurement of maximize synergistic web-readiness from Williams PLC,2151.31,GBP,Williams PLC,,
+T0547,2024-12-26,"Procurement of Lab Equipment from Huff, Thompson and Day",11882.81,EUR,"Huff, Thompson and Day",R&D,Lab Equipment
+T0548,2025-02-20,Procurement of streamline B2C relationships from Melton PLC,20979.07,EUR,Melton PLC,,
+T0549,2025-02-13,"Procurement of benchmark vertical action-items from Howard, Charles and Oneill",45383.13,GBP,"Howard, Charles and Oneill",,
+T0550,2025-02-21,Procurement of Professional IT Services from Rodriguez Group,40113.51,USD,Rodriguez Group,IT,Professional IT Services
+T0551,2025-02-23,Procurement of Cold Chain Transport from Nelson Group,9879.69,USD,Nelson Group,Logistics,Cold Chain Transport
+T0552,2025-01-07,"Procurement of Last-mile Delivery from Huff, Thompson and Day",23847.5,EUR,"Huff, Thompson and Day",Logistics,Last-mile Delivery
+T0553,2025-03-03,Procurement of Cold Chain Transport from Irwin-Dean,22036.88,GBP,Irwin-Dean,Logistics,Cold Chain Transport
+T0554,2025-03-03,"Procurement of Last-mile Delivery from Randolph, Salas and Vasquez",47391.47,EUR,"Randolph, Salas and Vasquez",Logistics,Last-mile Delivery
+T0555,2025-03-25,Procurement of e-enable compelling systems from Matthews LLC,879.69,GBP,Matthews LLC,,
+T0556,2025-01-12,Procurement of morph real-time metrics from Hill PLC,11458.3,USD,Hill PLC,,
+T0557,2025-01-21,Procurement of Facility Maintenance from Dunlap-Weiss,41144.75,EUR,Dunlap-Weiss,Manufacturing,Facility Maintenance
+T0558,2025-02-19,Procurement of facilitate ubiquitous paradigms from Perry-Jackson,42813.51,GBP,Perry-Jackson,,
+T0559,2025-02-15,Procurement of Professional IT Services from Haley Group,10138.84,USD,Haley Group,IT,Professional IT Services
+T0560,2025-02-24,Procurement of One-shot Software Purchase from Hunt-Bennett,27650.19,USD,Hunt-Bennett,IT,One-shot Software Purchase
+T0561,2025-02-23,"Procurement of Last-mile Delivery from Cook, Rivera and Cox",29857.48,EUR,"Cook, Rivera and Cox",Logistics,Last-mile Delivery
+T0562,2025-03-13,Procurement of Recurrent SaaS License from Webb-Tucker,41799.39,EUR,Webb-Tucker,IT,Recurrent SaaS License
+T0563,2025-01-08,"Procurement of Raw Materials from West, Jones and Koch",15288.97,USD,"West, Jones and Koch",Manufacturing,Raw Materials
+T0564,2024-12-29,Procurement of seize plug-and-play ROI from Humphrey Ltd,22782.48,USD,Humphrey Ltd,,
+T0565,2025-01-23,"Procurement of Warehousing from Jennings, Lawrence and Jackson",49904.2,USD,"Jennings, Lawrence and Jackson",Logistics,Warehousing
+T0566,2024-12-31,"Procurement of Clinical Trials from Stewart, Brooks and Bailey",37014.98,GBP,"Stewart, Brooks and Bailey",R&D,Clinical Trials
+T0567,2025-02-16,Procurement of evolve holistic schemas from Perry LLC,5494.05,USD,Perry LLC,,
+T0568,2025-01-29,Procurement of One-shot Software Purchase from Silva PLC,16105.21,USD,Silva PLC,IT,One-shot Software Purchase
+T0569,2025-01-22,Procurement of One-shot Software Purchase from Horton Group,14771.55,USD,Horton Group,IT,One-shot Software Purchase
+T0570,2024-12-31,Procurement of Recurrent SaaS License from Banks-Tate,22110.62,USD,Banks-Tate,IT,Recurrent SaaS License
+T0571,2025-01-11,"Procurement of Recurrent SaaS License from Bell, Shaffer and Zamora",2744.03,USD,"Bell, Shaffer and Zamora",IT,Recurrent SaaS License
+T0572,2025-01-23,Procurement of One-shot Software Purchase from Newman LLC,20333.07,GBP,Newman LLC,IT,One-shot Software Purchase
+T0573,2025-02-18,Procurement of Digital Advertising from Russell-Kim,17490.25,GBP,Russell-Kim,Marketing,Digital Advertising
+T0574,2025-02-18,"Procurement of Event Sponsorship from Randolph, Salas and Vasquez",1634.71,USD,"Randolph, Salas and Vasquez",Marketing,Event Sponsorship
+T0575,2025-03-11,"Procurement of Cold Chain Transport from West, Jones and Koch",12547.41,USD,"West, Jones and Koch",Logistics,Cold Chain Transport
+T0576,2025-01-21,Procurement of Professional IT Services from Bailey-Sanchez,44413.66,GBP,Bailey-Sanchez,IT,Professional IT Services
+T0577,2024-12-29,Procurement of facilitate impactful eyeballs from Smith Inc,28762.45,GBP,Smith Inc,,
+T0578,2025-03-21,"Procurement of Employee Training from Sanchez, Wu and Smith",39792.04,EUR,"Sanchez, Wu and Smith",HR & Training,Employee Training
+T0579,2025-03-12,Procurement of Production Equipment from Nolan LLC,23003.94,EUR,Nolan LLC,Manufacturing,Production Equipment
+T0580,2025-01-20,Procurement of Production Equipment from Patel LLC,8998.12,GBP,Patel LLC,Manufacturing,Production Equipment
+T0581,2024-12-27,Procurement of Digital Advertising from Adams-Patel,9598.55,USD,Adams-Patel,Marketing,Digital Advertising
+T0582,2025-02-19,Procurement of incubate plug-and-play functionalities from Perry-Jackson,17200.68,USD,Perry-Jackson,,
+T0583,2025-03-21,Procurement of Digital Advertising from Robertson LLC,25916.73,GBP,Robertson LLC,Marketing,Digital Advertising
+T0584,2025-03-03,Procurement of Lab Equipment from Hughes-Payne,30233.63,GBP,Hughes-Payne,R&D,Lab Equipment
+T0585,2025-03-01,Procurement of mesh next-generation markets from Irwin-Dean,13146.97,EUR,Irwin-Dean,,
+T0586,2025-03-07,Procurement of Warehousing from Dunlap-Weiss,34567.59,GBP,Dunlap-Weiss,Logistics,Warehousing
+T0587,2025-01-27,Procurement of Recruitment Services from Haley Group,13165.32,GBP,Haley Group,HR & Training,Recruitment Services
+T0588,2025-02-22,"Procurement of exploit viral deliverables from Hooper, Robinson and Little",17603.05,EUR,"Hooper, Robinson and Little",,
+T0589,2025-03-23,Procurement of evolve viral action-items from Perry LLC,2700.75,GBP,Perry LLC,,
+T0590,2025-02-05,Procurement of Production Equipment from Phelps-Beck,10549.9,USD,Phelps-Beck,Manufacturing,Production Equipment
+T0591,2025-03-11,Procurement of Lab Equipment from Johnson Ltd,32379.68,GBP,Johnson Ltd,R&D,Lab Equipment
+T0592,2025-01-25,Procurement of enable revolutionary functionalities from Smith and Sons,9176.63,USD,Smith and Sons,,
+T0593,2024-12-30,Procurement of Warehousing from Gilbert-Velazquez,37115.7,GBP,Gilbert-Velazquez,Logistics,Warehousing
+T0594,2025-01-07,Procurement of Event Sponsorship from Mason-Warren,21163.26,GBP,Mason-Warren,Marketing,Event Sponsorship
+T0595,2025-02-08,"Procurement of Event Sponsorship from Perez, Blackwell and Mckee",12486.54,USD,"Perez, Blackwell and Mckee",Marketing,Event Sponsorship
+T0596,2024-12-29,Procurement of Facility Maintenance from Contreras-Lucas,19980.93,EUR,Contreras-Lucas,Manufacturing,Facility Maintenance
+T0597,2025-03-09,Procurement of Event Sponsorship from Jones Group,43432.2,GBP,Jones Group,Marketing,Event Sponsorship
+T0598,2025-02-07,Procurement of scale B2C web-readiness from Rodriguez LLC,36157.76,GBP,Rodriguez LLC,,
+T0599,2025-01-20,"Procurement of Employee Training from Mendez, Brennan and Yu",32647.37,GBP,"Mendez, Brennan and Yu",HR & Training,Employee Training
+T0600,2025-03-11,Procurement of Clinical Trials from Avila-Miller,14226.3,GBP,Avila-Miller,R&D,Clinical Trials
+T0601,2025-03-04,Procurement of Employee Training from Matthews LLC,37108.74,USD,Matthews LLC,HR & Training,Employee Training
+T0602,2025-01-06,Procurement of Print Media from Banks-Tate,41706.72,EUR,Banks-Tate,Marketing,Print Media
+T0603,2024-12-31,Procurement of Research Services from Horton Group,37927.45,EUR,Horton Group,R&D,Research Services
+T0604,2025-02-18,Procurement of Employee Training from Cross Inc,24929.58,EUR,Cross Inc,HR & Training,Employee Training
+T0605,2025-01-07,"Procurement of disintermediate seamless e-services from Hoffman, Mcintyre and Mckenzie",33866.93,USD,"Hoffman, Mcintyre and Mckenzie",,
+T0606,2025-02-05,"Procurement of Print Media from Day, Long and Bell",16957.08,USD,"Day, Long and Bell",Marketing,Print Media
+T0607,2025-02-20,Procurement of Lab Equipment from Davis-Smith,35583.19,GBP,Davis-Smith,R&D,Lab Equipment
+T0608,2025-02-13,Procurement of Digital Advertising from Nolan LLC,46486.94,GBP,Nolan LLC,Marketing,Digital Advertising
+T0609,2025-02-27,Procurement of Recruitment Services from Benton-Wang,16683.64,USD,Benton-Wang,HR & Training,Recruitment Services
+T0610,2024-12-31,Procurement of engage cross-media models from Benton-Wang,26531.16,USD,Benton-Wang,,
+T0611,2025-01-13,Procurement of synthesize frictionless deliverables from Wolfe-Lopez,46948.59,USD,Wolfe-Lopez,,
+T0612,2025-01-02,Procurement of Production Equipment from Brooks LLC,19001.34,GBP,Brooks LLC,Manufacturing,Production Equipment
+T0613,2025-03-13,"Procurement of Recruitment Services from Stewart, Brooks and Bailey",45229.23,USD,"Stewart, Brooks and Bailey",HR & Training,Recruitment Services
+T0614,2024-12-28,"Procurement of One-shot Software Purchase from Ho, Nguyen and Williams",10732.49,EUR,"Ho, Nguyen and Williams",IT,One-shot Software Purchase
+T0615,2025-02-07,Procurement of Facility Maintenance from Young-Anderson,47574.35,GBP,Young-Anderson,Manufacturing,Facility Maintenance
+T0616,2025-02-08,Procurement of Digital Advertising from Combs PLC,37062.05,EUR,Combs PLC,Marketing,Digital Advertising
+T0617,2025-02-25,Procurement of Warehousing from Wolfe-Lopez,14835.1,USD,Wolfe-Lopez,Logistics,Warehousing
+T0618,2025-01-29,"Procurement of envisioneer out-of-the-box partnerships from Cook, Rivera and Cox",15815.55,USD,"Cook, Rivera and Cox",,
+T0619,2025-03-12,"Procurement of deploy visionary e-commerce from Scott, West and Brown",19307.21,GBP,"Scott, West and Brown",,
+T0620,2025-02-12,Procurement of re-intermediate sticky web services from Webb-Tucker,38189.58,GBP,Webb-Tucker,,
+T0621,2025-01-25,Procurement of cultivate enterprise vortals from Erickson-Larson,16128.66,GBP,Erickson-Larson,,
+T0622,2025-01-29,Procurement of Print Media from Coleman Inc,44411.83,USD,Coleman Inc,Marketing,Print Media
+T0623,2025-03-11,Procurement of Employee Training from Hunt-Bennett,35778.59,USD,Hunt-Bennett,HR & Training,Employee Training
+T0624,2025-01-07,Procurement of Last-mile Delivery from Humphrey Ltd,36738.24,USD,Humphrey Ltd,Logistics,Last-mile Delivery
+T0625,2025-01-10,"Procurement of Raw Materials from West, Jones and Koch",11750.9,USD,"West, Jones and Koch",Manufacturing,Raw Materials
+T0626,2025-01-24,Procurement of synthesize B2B infrastructures from Collins-Donovan,19682.27,USD,Collins-Donovan,,
+T0627,2025-03-18,Procurement of Last-mile Delivery from Juarez Inc,22231.77,EUR,Juarez Inc,Logistics,Last-mile Delivery
+T0628,2025-02-18,Procurement of Research Services from Rodriguez Group,35959.43,EUR,Rodriguez Group,R&D,Research Services
+T0629,2024-12-29,Procurement of iterate ubiquitous systems from Erickson-Larson,15957.05,USD,Erickson-Larson,,
+T0630,2025-01-29,"Procurement of Cold Chain Transport from Cain, Price and Lozano",26673.47,GBP,"Cain, Price and Lozano",Logistics,Cold Chain Transport
+T0631,2025-01-15,"Procurement of Event Sponsorship from Ho, Nguyen and Williams",27705.69,USD,"Ho, Nguyen and Williams",Marketing,Event Sponsorship
+T0632,2025-03-17,"Procurement of Raw Materials from Green, Thompson and Paul",20038.11,EUR,"Green, Thompson and Paul",Manufacturing,Raw Materials
+T0633,2025-03-03,"Procurement of architect wireless experiences from Murillo, Jackson and Guerrero",46521.13,EUR,"Murillo, Jackson and Guerrero",,
+T0634,2025-03-24,"Procurement of Employee Training from Dillon, Ramirez and Thomas",47784.92,GBP,"Dillon, Ramirez and Thomas",HR & Training,Employee Training
+T0635,2025-01-15,"Procurement of Warehousing from Ho, Nguyen and Williams",40333.1,EUR,"Ho, Nguyen and Williams",Logistics,Warehousing
+T0636,2025-02-06,Procurement of transform 24/7 models from Coleman Inc,43188.47,EUR,Coleman Inc,,
+T0637,2025-03-22,Procurement of streamline dot-com action-items from Robertson LLC,4929.68,EUR,Robertson LLC,,
+T0638,2025-02-06,"Procurement of Digital Advertising from Monroe, Bryant and Dennis",8781.22,USD,"Monroe, Bryant and Dennis",Marketing,Digital Advertising
+T0639,2025-02-05,Procurement of embrace dot-com convergence from Johnson Ltd,45269.43,USD,Johnson Ltd,,
+T0640,2025-01-03,Procurement of Warehousing from Young-Anderson,35259.13,GBP,Young-Anderson,Logistics,Warehousing
+T0641,2025-02-04,Procurement of Lab Equipment from Webb-Tucker,36413.22,USD,Webb-Tucker,R&D,Lab Equipment
+T0642,2025-01-23,Procurement of Last-mile Delivery from Brooks LLC,19443.32,USD,Brooks LLC,Logistics,Last-mile Delivery
+T0643,2025-02-10,"Procurement of One-shot Software Purchase from Howard, Charles and Oneill",10535.78,USD,"Howard, Charles and Oneill",IT,One-shot Software Purchase
+T0644,2025-02-20,Procurement of Professional IT Services from Erickson-Larson,32165.99,GBP,Erickson-Larson,IT,Professional IT Services
+T0645,2025-01-22,Procurement of Professional IT Services from Wall PLC,46313.41,GBP,Wall PLC,IT,Professional IT Services
+T0646,2025-02-01,Procurement of Print Media from Combs PLC,30369.15,EUR,Combs PLC,Marketing,Print Media
+T0647,2025-01-06,Procurement of Temporary Staff from Perry LLC,38751.42,EUR,Perry LLC,HR & Training,Temporary Staff
+T0648,2025-03-11,Procurement of target synergistic schemas from Stanley and Sons,18314.73,USD,Stanley and Sons,,
+T0649,2024-12-29,"Procurement of redefine dynamic functionalities from Mendez, Brennan and Yu",26077.93,USD,"Mendez, Brennan and Yu",,
+T0650,2025-01-29,"Procurement of Lab Equipment from Scott, West and Brown",20543.45,USD,"Scott, West and Brown",R&D,Lab Equipment
+T0651,2025-01-29,"Procurement of empower bricks-and-clicks web-readiness from Cain, Price and Lozano",19899.64,USD,"Cain, Price and Lozano",,
+T0652,2025-02-20,Procurement of Clinical Trials from Russell-Kim,2417.32,GBP,Russell-Kim,R&D,Clinical Trials
+T0653,2025-02-25,"Procurement of productize one-to-one supply-chains from Dillon, Ramirez and Thomas",37305.55,USD,"Dillon, Ramirez and Thomas",,
+T0654,2025-03-08,Procurement of architect robust platforms from Johnson-Farmer,49762.9,USD,Johnson-Farmer,,
+T0655,2025-02-12,"Procurement of One-shot Software Purchase from West, Jones and Koch",46391.68,USD,"West, Jones and Koch",IT,One-shot Software Purchase
+T0656,2025-02-27,Procurement of Temporary Staff from Orozco-Davis,43712.67,GBP,Orozco-Davis,HR & Training,Temporary Staff
+T0657,2025-01-12,Procurement of Production Equipment from Gilbert-Velazquez,44672.2,EUR,Gilbert-Velazquez,Manufacturing,Production Equipment
+T0658,2025-03-04,"Procurement of Raw Materials from Stewart, Brooks and Bailey",18346.78,EUR,"Stewart, Brooks and Bailey",Manufacturing,Raw Materials
+T0659,2025-02-22,Procurement of Recruitment Services from Combs PLC,16840.44,USD,Combs PLC,HR & Training,Recruitment Services
+T0660,2025-03-09,Procurement of Raw Materials from Humphrey Ltd,19142.06,EUR,Humphrey Ltd,Manufacturing,Raw Materials
+T0661,2025-03-17,Procurement of Warehousing from Flores Ltd,10430.49,USD,Flores Ltd,Logistics,Warehousing
+T0662,2025-03-21,Procurement of optimize seamless methodologies from Juarez Inc,31856.18,EUR,Juarez Inc,,
+T0663,2025-01-16,Procurement of Warehousing from Newman LLC,13457.95,GBP,Newman LLC,Logistics,Warehousing
+T0664,2025-01-10,"Procurement of extend turn-key supply-chains from Mcdonald, Frederick and West",15907.97,EUR,"Mcdonald, Frederick and West",,
+T0665,2025-01-29,Procurement of extend e-business paradigms from Martin and Sons,8396.27,USD,Martin and Sons,,
+T0666,2025-03-22,"Procurement of Temporary Staff from Dillon, Ramirez and Thomas",42913.58,GBP,"Dillon, Ramirez and Thomas",HR & Training,Temporary Staff
+T0667,2025-03-09,Procurement of transform visionary paradigms from Cross Inc,41203.43,GBP,Cross Inc,,
+T0668,2025-01-03,Procurement of Professional IT Services from Nelson Group,19534.52,USD,Nelson Group,IT,Professional IT Services
+T0669,2025-02-24,Procurement of synthesize real-time infrastructures from Rodriguez Group,16197.57,USD,Rodriguez Group,,
+T0670,2025-02-19,"Procurement of Print Media from Alvarado, Smith and Williams",29465.39,GBP,"Alvarado, Smith and Williams",Marketing,Print Media
+T0671,2025-01-02,"Procurement of Facility Maintenance from Hooper, Robinson and Little",23787.71,GBP,"Hooper, Robinson and Little",Manufacturing,Facility Maintenance
+T0672,2024-12-26,Procurement of Clinical Trials from Hunt-Bennett,7979.98,USD,Hunt-Bennett,R&D,Clinical Trials
+T0673,2025-01-06,Procurement of Research Services from Watson-Smith,3952.63,GBP,Watson-Smith,R&D,Research Services
+T0674,2025-03-04,"Procurement of Print Media from Huff, Thompson and Day",38860.32,EUR,"Huff, Thompson and Day",Marketing,Print Media
+T0675,2025-01-16,Procurement of matrix clicks-and-mortar initiatives from Russell-Kim,10921.9,USD,Russell-Kim,,
+T0676,2025-03-11,Procurement of Cold Chain Transport from Johnson Ltd,5095.63,EUR,Johnson Ltd,Logistics,Cold Chain Transport
+T0677,2024-12-31,Procurement of re-intermediate transparent models from Juarez Inc,23626.83,USD,Juarez Inc,,
+T0678,2025-03-22,Procurement of Last-mile Delivery from Irwin-Dean,37560.77,EUR,Irwin-Dean,Logistics,Last-mile Delivery
+T0679,2024-12-31,Procurement of target 24/365 e-business from Silva PLC,27102.25,EUR,Silva PLC,,
+T0680,2025-02-01,Procurement of One-shot Software Purchase from Robertson LLC,16421.46,EUR,Robertson LLC,IT,One-shot Software Purchase
+T0681,2025-01-25,Procurement of repurpose collaborative info-mediaries from Contreras-Lucas,17199.4,USD,Contreras-Lucas,,
+T0682,2025-02-23,"Procurement of Clinical Trials from Phillips, Allen and Smith",45379.17,EUR,"Phillips, Allen and Smith",R&D,Clinical Trials
+T0683,2025-01-12,Procurement of Facility Maintenance from Brooks LLC,43677.49,GBP,Brooks LLC,Manufacturing,Facility Maintenance
+T0684,2025-01-07,Procurement of One-shot Software Purchase from Mason-Warren,32571.41,USD,Mason-Warren,IT,One-shot Software Purchase
+T0685,2024-12-30,Procurement of Digital Advertising from Wolfe-Lopez,39745.01,USD,Wolfe-Lopez,Marketing,Digital Advertising
+T0686,2025-01-31,Procurement of mesh transparent eyeballs from Williams PLC,12071.05,GBP,Williams PLC,,
+T0687,2025-03-04,Procurement of streamline B2B initiatives from Russell-Kim,37302.12,EUR,Russell-Kim,,
+T0688,2025-02-17,Procurement of grow rich e-markets from Matthews LLC,35709.54,USD,Matthews LLC,,
+T0689,2025-02-06,Procurement of Employee Training from Silva PLC,34444.63,EUR,Silva PLC,HR & Training,Employee Training
+T0690,2025-01-07,Procurement of Temporary Staff from Graves-Thompson,40919.04,GBP,Graves-Thompson,HR & Training,Temporary Staff
+T0691,2025-01-19,"Procurement of Professional IT Services from Alvarado, Smith and Williams",43488.63,EUR,"Alvarado, Smith and Williams",IT,Professional IT Services
+T0692,2025-03-23,Procurement of empower cross-media communities from Graves-Thompson,2836.35,GBP,Graves-Thompson,,
+T0693,2025-03-15,Procurement of Production Equipment from Webb-Tucker,10583.47,USD,Webb-Tucker,Manufacturing,Production Equipment
+T0694,2025-03-18,Procurement of visualize visionary experiences from Davis-Smith,48592.1,EUR,Davis-Smith,,
+T0695,2025-02-11,Procurement of Warehousing from Perry-Jackson,34803.41,EUR,Perry-Jackson,Logistics,Warehousing
+T0696,2025-02-17,Procurement of Recruitment Services from Martin and Sons,10865.59,USD,Martin and Sons,HR & Training,Recruitment Services
+T0697,2025-01-02,"Procurement of Research Services from Smith, Aguilar and Finley",23392.56,USD,"Smith, Aguilar and Finley",R&D,Research Services
+T0698,2025-02-19,"Procurement of Recruitment Services from Monroe, Bryant and Dennis",2155.48,EUR,"Monroe, Bryant and Dennis",HR & Training,Recruitment Services
+T0699,2025-02-03,Procurement of benchmark viral users from Phelps-Beck,27366.79,GBP,Phelps-Beck,,
+T0700,2025-01-03,Procurement of Event Sponsorship from Gilbert-Velazquez,36775.94,GBP,Gilbert-Velazquez,Marketing,Event Sponsorship
+T0701,2025-02-17,Procurement of One-shot Software Purchase from Perry LLC,12740.81,GBP,Perry LLC,IT,One-shot Software Purchase
+T0702,2025-03-24,Procurement of Clinical Trials from Russell-Kim,25412.28,EUR,Russell-Kim,R&D,Clinical Trials
+T0703,2025-02-10,Procurement of Cold Chain Transport from Cross Inc,18996.52,USD,Cross Inc,Logistics,Cold Chain Transport
+T0704,2025-02-10,Procurement of Digital Advertising from Watson-Smith,16367.91,USD,Watson-Smith,Marketing,Digital Advertising
+T0705,2025-01-02,Procurement of Digital Advertising from Johnson-Farmer,19109.36,GBP,Johnson-Farmer,Marketing,Digital Advertising
+T0706,2024-12-30,"Procurement of Raw Materials from May, Osborne and Randolph",25161.93,EUR,"May, Osborne and Randolph",Manufacturing,Raw Materials
+T0707,2025-03-20,Procurement of Clinical Trials from Erickson-Larson,29022.25,EUR,Erickson-Larson,R&D,Clinical Trials
+T0708,2025-01-08,"Procurement of Recurrent SaaS License from Alvarado, Smith and Williams",46782.93,USD,"Alvarado, Smith and Williams",IT,Recurrent SaaS License
+T0709,2025-03-21,Procurement of Facility Maintenance from Rodriguez LLC,34880.67,EUR,Rodriguez LLC,Manufacturing,Facility Maintenance
+T0710,2025-01-04,Procurement of Professional IT Services from Banks-Tate,1758.42,USD,Banks-Tate,IT,Professional IT Services
+T0711,2025-01-03,"Procurement of Lab Equipment from West, Jones and Koch",40089.11,GBP,"West, Jones and Koch",R&D,Lab Equipment
+T0712,2025-03-12,Procurement of enhance transparent systems from Smith Inc,11131.94,USD,Smith Inc,,
+T0713,2025-03-09,"Procurement of Employee Training from Cain, Price and Lozano",10543.92,GBP,"Cain, Price and Lozano",HR & Training,Employee Training
+T0714,2025-03-03,Procurement of innovate end-to-end metrics from Taylor PLC,33370.07,EUR,Taylor PLC,,
+T0715,2025-01-10,Procurement of Production Equipment from Flores Ltd,25141.24,EUR,Flores Ltd,Manufacturing,Production Equipment
+T0716,2025-03-15,"Procurement of engage impactful experiences from Day, Long and Bell",41204.76,GBP,"Day, Long and Bell",,
+T0717,2025-03-06,"Procurement of Professional IT Services from May, Osborne and Randolph",24346.77,EUR,"May, Osborne and Randolph",IT,Professional IT Services
+T0718,2025-01-20,Procurement of orchestrate open-source partnerships from Irwin-Dean,21890.48,EUR,Irwin-Dean,,
+T0719,2024-12-27,"Procurement of cultivate bleeding-edge metrics from Dillon, Ramirez and Thomas",34049.14,GBP,"Dillon, Ramirez and Thomas",,
+T0720,2025-01-22,Procurement of synergize enterprise deliverables from Graves-Thompson,10397.1,USD,Graves-Thompson,,
+T0721,2024-12-29,"Procurement of Clinical Trials from Cook, Rivera and Cox",22834.13,USD,"Cook, Rivera and Cox",R&D,Clinical Trials
+T0722,2025-02-10,Procurement of Print Media from Wall PLC,48446.9,EUR,Wall PLC,Marketing,Print Media
+T0723,2025-02-21,Procurement of Last-mile Delivery from Melton PLC,5721.31,EUR,Melton PLC,Logistics,Last-mile Delivery
+T0724,2025-03-11,Procurement of empower back-end infrastructures from Mathews and Sons,42188.19,USD,Mathews and Sons,,
+T0725,2024-12-28,"Procurement of Digital Advertising from Cook, Rivera and Cox",32588.83,USD,"Cook, Rivera and Cox",Marketing,Digital Advertising
+T0726,2025-01-17,"Procurement of Research Services from Phillips, Allen and Smith",10414.32,USD,"Phillips, Allen and Smith",R&D,Research Services
+T0727,2025-02-10,Procurement of incentivize best-of-breed interfaces from Gilbert-Velazquez,1943.37,USD,Gilbert-Velazquez,,
+T0728,2025-01-10,Procurement of Facility Maintenance from Benton-Wang,41094.07,EUR,Benton-Wang,Manufacturing,Facility Maintenance
+T0729,2025-03-14,Procurement of Print Media from Perry-Jackson,4107.48,GBP,Perry-Jackson,Marketing,Print Media
+T0730,2024-12-28,Procurement of One-shot Software Purchase from Sherman-Martin,40544.0,USD,Sherman-Martin,IT,One-shot Software Purchase
+T0731,2025-01-06,"Procurement of Clinical Trials from Alvarado, Smith and Williams",4110.66,USD,"Alvarado, Smith and Williams",R&D,Clinical Trials
+T0732,2025-01-22,"Procurement of Facility Maintenance from Huff, Thompson and Day",42013.21,USD,"Huff, Thompson and Day",Manufacturing,Facility Maintenance
+T0733,2025-01-16,"Procurement of Recurrent SaaS License from Cook, Rivera and Cox",6183.47,USD,"Cook, Rivera and Cox",IT,Recurrent SaaS License
+T0734,2025-02-28,"Procurement of Print Media from West, Jones and Koch",33459.56,EUR,"West, Jones and Koch",Marketing,Print Media
+T0735,2025-01-02,Procurement of Warehousing from Robertson LLC,17996.3,USD,Robertson LLC,Logistics,Warehousing
+T0736,2025-01-19,"Procurement of Recurrent SaaS License from Alvarado, Smith and Williams",38225.13,EUR,"Alvarado, Smith and Williams",IT,Recurrent SaaS License
+T0737,2025-01-30,Procurement of Warehousing from Adams-Patel,44655.46,GBP,Adams-Patel,Logistics,Warehousing
+T0738,2025-02-15,"Procurement of repurpose virtual communities from Townsend, Harper and Baker",8144.76,USD,"Townsend, Harper and Baker",,
+T0739,2025-01-15,Procurement of Facility Maintenance from Hill PLC,1763.67,USD,Hill PLC,Manufacturing,Facility Maintenance
+T0740,2025-01-11,"Procurement of aggregate bricks-and-clicks ROI from Cain, Price and Lozano",42671.14,USD,"Cain, Price and Lozano",,
+T0741,2025-03-11,"Procurement of Last-mile Delivery from Mcdonald, Frederick and West",49905.7,USD,"Mcdonald, Frederick and West",Logistics,Last-mile Delivery
+T0742,2025-02-22,Procurement of transform proactive partnerships from Coleman Inc,32400.23,EUR,Coleman Inc,,
+T0743,2025-03-12,"Procurement of Digital Advertising from Bell, Shaffer and Zamora",26543.97,GBP,"Bell, Shaffer and Zamora",Marketing,Digital Advertising
+T0744,2025-02-22,"Procurement of Recurrent SaaS License from Cain, Price and Lozano",15717.2,EUR,"Cain, Price and Lozano",IT,Recurrent SaaS License
+T0745,2025-01-23,Procurement of engage B2C vortals from Banks-Tate,8156.06,USD,Banks-Tate,,
+T0746,2025-01-07,Procurement of Event Sponsorship from Jones Group,25371.71,EUR,Jones Group,Marketing,Event Sponsorship
+T0747,2025-01-27,"Procurement of brand extensible applications from Sanchez, Wu and Smith",16853.72,GBP,"Sanchez, Wu and Smith",,
+T0748,2024-12-31,Procurement of Research Services from Williams PLC,15773.03,GBP,Williams PLC,R&D,Research Services
+T0749,2025-01-03,"Procurement of Warehousing from Murillo, Jackson and Guerrero",46301.58,GBP,"Murillo, Jackson and Guerrero",Logistics,Warehousing
+T0750,2025-01-17,Procurement of Recruitment Services from Perry-Jackson,46237.23,USD,Perry-Jackson,HR & Training,Recruitment Services
+T0751,2025-01-15,"Procurement of integrate wireless communities from Hooper, Robinson and Little",27692.27,GBP,"Hooper, Robinson and Little",,
+T0752,2025-01-02,Procurement of incentivize B2C solutions from Erickson-Larson,42485.31,EUR,Erickson-Larson,,
+T0753,2025-03-22,"Procurement of Professional IT Services from Green, Thompson and Paul",23227.52,GBP,"Green, Thompson and Paul",IT,Professional IT Services
+T0754,2025-01-07,Procurement of Lab Equipment from Young-Anderson,49782.81,EUR,Young-Anderson,R&D,Lab Equipment
+T0755,2025-01-21,Procurement of Warehousing from Silva PLC,42303.67,USD,Silva PLC,Logistics,Warehousing
+T0756,2025-01-24,"Procurement of Print Media from Phillips, Allen and Smith",3401.39,USD,"Phillips, Allen and Smith",Marketing,Print Media
+T0757,2025-01-14,Procurement of Facility Maintenance from Wall PLC,24598.61,EUR,Wall PLC,Manufacturing,Facility Maintenance
+T0758,2024-12-29,Procurement of architect cross-platform eyeballs from Nolan LLC,4617.69,EUR,Nolan LLC,,
+T0759,2025-01-22,Procurement of Professional IT Services from Taylor PLC,10624.4,USD,Taylor PLC,IT,Professional IT Services
+T0760,2025-01-22,Procurement of monetize end-to-end markets from Wang LLC,48768.94,USD,Wang LLC,,
+T0761,2025-02-08,Procurement of Digital Advertising from Watson-Smith,1880.99,GBP,Watson-Smith,Marketing,Digital Advertising
+T0762,2024-12-28,"Procurement of Employee Training from Sherman, Colon and Moore",42765.74,GBP,"Sherman, Colon and Moore",HR & Training,Employee Training
+T0763,2025-02-18,"Procurement of whiteboard frictionless networks from Scott, West and Brown",46773.11,GBP,"Scott, West and Brown",,
+T0764,2025-02-04,"Procurement of exploit world-class users from Perez, Blackwell and Mckee",14751.03,EUR,"Perez, Blackwell and Mckee",,
+T0765,2025-01-07,Procurement of enhance extensible platforms from Mason-Warren,33977.74,EUR,Mason-Warren,,
+T0766,2025-01-07,Procurement of Last-mile Delivery from Young-Anderson,17741.01,GBP,Young-Anderson,Logistics,Last-mile Delivery
+T0767,2025-02-04,"Procurement of envisioneer wireless metrics from Lopez, Golden and Calhoun",9305.18,EUR,"Lopez, Golden and Calhoun",,
+T0768,2025-01-21,Procurement of Recurrent SaaS License from Matthews LLC,4933.97,EUR,Matthews LLC,IT,Recurrent SaaS License
+T0769,2025-02-21,"Procurement of Lab Equipment from Hoffman, Mcintyre and Mckenzie",24975.26,GBP,"Hoffman, Mcintyre and Mckenzie",R&D,Lab Equipment
+T0770,2025-01-14,Procurement of Lab Equipment from Reid-Reynolds,37326.92,USD,Reid-Reynolds,R&D,Lab Equipment
+T0771,2025-03-19,"Procurement of Research Services from Monroe, Bryant and Dennis",46783.39,EUR,"Monroe, Bryant and Dennis",R&D,Research Services
+T0772,2025-01-30,"Procurement of Recurrent SaaS License from Randolph, Salas and Vasquez",2008.98,USD,"Randolph, Salas and Vasquez",IT,Recurrent SaaS License
+T0773,2025-01-28,Procurement of Production Equipment from Watson-Carson,34807.77,GBP,Watson-Carson,Manufacturing,Production Equipment
+T0774,2025-01-18,Procurement of Recurrent SaaS License from Matthews LLC,28917.55,USD,Matthews LLC,IT,Recurrent SaaS License
+T0775,2025-03-07,"Procurement of Lab Equipment from Cain, Price and Lozano",9039.61,GBP,"Cain, Price and Lozano",R&D,Lab Equipment
+T0776,2025-01-21,Procurement of Event Sponsorship from Burgess PLC,41039.38,GBP,Burgess PLC,Marketing,Event Sponsorship
+T0777,2024-12-27,"Procurement of Research Services from Dillon, Ramirez and Thomas",9451.23,EUR,"Dillon, Ramirez and Thomas",R&D,Research Services
+T0778,2025-02-08,"Procurement of Recruitment Services from May, Osborne and Randolph",45814.7,GBP,"May, Osborne and Randolph",HR & Training,Recruitment Services
+T0779,2025-01-18,Procurement of Facility Maintenance from Smith and Sons,37354.84,EUR,Smith and Sons,Manufacturing,Facility Maintenance
+T0780,2025-01-10,"Procurement of Raw Materials from Mcdonald, Frederick and West",23393.55,USD,"Mcdonald, Frederick and West",Manufacturing,Raw Materials
+T0781,2025-03-14,"Procurement of Temporary Staff from Mcdonald, Frederick and West",39151.19,GBP,"Mcdonald, Frederick and West",HR & Training,Temporary Staff
+T0782,2025-02-26,Procurement of engage intuitive e-commerce from Coleman Inc,41522.41,EUR,Coleman Inc,,
+T0783,2025-02-07,Procurement of Employee Training from Humphrey Ltd,4942.9,GBP,Humphrey Ltd,HR & Training,Employee Training
+T0784,2025-02-11,Procurement of Digital Advertising from Banks-Tate,34891.36,EUR,Banks-Tate,Marketing,Digital Advertising
+T0785,2025-03-09,"Procurement of Last-mile Delivery from Mendez, Brennan and Yu",33408.43,GBP,"Mendez, Brennan and Yu",Logistics,Last-mile Delivery
+T0786,2025-02-07,Procurement of Recurrent SaaS License from Orozco-Davis,27637.44,USD,Orozco-Davis,IT,Recurrent SaaS License
+T0787,2025-01-05,"Procurement of One-shot Software Purchase from Huff, Thompson and Day",33781.91,EUR,"Huff, Thompson and Day",IT,One-shot Software Purchase
+T0788,2025-03-06,"Procurement of Last-mile Delivery from Cook, Rivera and Cox",12909.37,USD,"Cook, Rivera and Cox",Logistics,Last-mile Delivery
+T0789,2025-02-11,"Procurement of Recurrent SaaS License from Stewart, Brooks and Bailey",27352.83,GBP,"Stewart, Brooks and Bailey",IT,Recurrent SaaS License
+T0790,2025-02-04,Procurement of Clinical Trials from Robinson-Gonzales,42990.34,GBP,Robinson-Gonzales,R&D,Clinical Trials
+T0791,2025-01-09,Procurement of morph next-generation bandwidth from Perry-Jackson,46985.32,GBP,Perry-Jackson,,
+T0792,2025-02-21,Procurement of Print Media from Haley Group,34737.52,GBP,Haley Group,Marketing,Print Media
+T0793,2025-02-09,Procurement of Professional IT Services from Orozco-Davis,4319.24,EUR,Orozco-Davis,IT,Professional IT Services
+T0794,2025-02-06,Procurement of drive compelling deliverables from Young-Anderson,19641.0,EUR,Young-Anderson,,
+T0795,2025-02-10,Procurement of One-shot Software Purchase from Nolan LLC,1103.19,EUR,Nolan LLC,IT,One-shot Software Purchase
+T0796,2025-01-25,Procurement of Cold Chain Transport from Dunlap-Weiss,41405.52,GBP,Dunlap-Weiss,Logistics,Cold Chain Transport
+T0797,2025-01-04,Procurement of Cold Chain Transport from Orozco-Davis,41285.43,GBP,Orozco-Davis,Logistics,Cold Chain Transport
+T0798,2025-03-24,Procurement of Print Media from Gilbert-Velazquez,14861.87,GBP,Gilbert-Velazquez,Marketing,Print Media
+T0799,2025-02-16,"Procurement of Professional IT Services from Green, Thompson and Paul",27095.16,EUR,"Green, Thompson and Paul",IT,Professional IT Services
+T0800,2025-03-16,"Procurement of Event Sponsorship from Murillo, Jackson and Guerrero",20453.27,GBP,"Murillo, Jackson and Guerrero",Marketing,Event Sponsorship
+T0801,2025-03-19,Procurement of Warehousing from Watson-Carson,2661.88,GBP,Watson-Carson,Logistics,Warehousing
+T0802,2025-01-06,"Procurement of Event Sponsorship from Bell, Shaffer and Zamora",34718.92,EUR,"Bell, Shaffer and Zamora",Marketing,Event Sponsorship
+T0803,2024-12-27,Procurement of benchmark world-class metrics from Reid-Reynolds,21254.56,EUR,Reid-Reynolds,,
+T0804,2025-01-07,Procurement of Raw Materials from Hughes-Payne,19477.99,USD,Hughes-Payne,Manufacturing,Raw Materials
+T0805,2025-02-16,Procurement of Temporary Staff from Perry LLC,48063.14,GBP,Perry LLC,HR & Training,Temporary Staff
+T0806,2025-02-26,Procurement of Warehousing from Nelson Group,12257.62,GBP,Nelson Group,Logistics,Warehousing
+T0807,2025-03-18,Procurement of Clinical Trials from Perry-Jackson,1465.29,EUR,Perry-Jackson,R&D,Clinical Trials
+T0808,2025-02-12,Procurement of One-shot Software Purchase from Russell-Kim,21611.25,EUR,Russell-Kim,IT,One-shot Software Purchase
+T0809,2025-03-19,Procurement of Facility Maintenance from Burgess PLC,21180.79,EUR,Burgess PLC,Manufacturing,Facility Maintenance
+T0810,2025-03-24,Procurement of Event Sponsorship from Haley Group,9555.3,EUR,Haley Group,Marketing,Event Sponsorship
+T0811,2025-03-03,"Procurement of Temporary Staff from Olson, Stein and Baker",48876.3,USD,"Olson, Stein and Baker",HR & Training,Temporary Staff
+T0812,2025-02-25,Procurement of Production Equipment from Rodriguez Group,12839.11,EUR,Rodriguez Group,Manufacturing,Production Equipment
+T0813,2025-02-17,Procurement of Recurrent SaaS License from Silva PLC,12679.14,USD,Silva PLC,IT,Recurrent SaaS License
+T0814,2025-02-01,Procurement of Professional IT Services from Collins-Donovan,30525.56,EUR,Collins-Donovan,IT,Professional IT Services
+T0815,2025-03-12,"Procurement of Production Equipment from Huff, Thompson and Day",26966.02,USD,"Huff, Thompson and Day",Manufacturing,Production Equipment
+T0816,2025-03-09,Procurement of Clinical Trials from Silva PLC,3628.59,EUR,Silva PLC,R&D,Clinical Trials
+T0817,2025-03-03,Procurement of productize strategic web-readiness from Mathews and Sons,39928.85,USD,Mathews and Sons,,
+T0818,2025-02-16,Procurement of Print Media from Rodriguez LLC,46759.99,EUR,Rodriguez LLC,Marketing,Print Media
+T0819,2025-01-14,Procurement of leverage seamless models from Sherman-Martin,47229.71,EUR,Sherman-Martin,,
+T0820,2025-02-19,"Procurement of Recruitment Services from Scott, West and Brown",42708.32,USD,"Scott, West and Brown",HR & Training,Recruitment Services
+T0821,2025-01-10,"Procurement of redefine bricks-and-clicks initiatives from Mendez, Brennan and Yu",49741.17,USD,"Mendez, Brennan and Yu",,
+T0822,2025-02-28,Procurement of exploit bleeding-edge markets from Stanley and Sons,33080.54,GBP,Stanley and Sons,,
+T0823,2025-01-28,"Procurement of Raw Materials from Cain, Price and Lozano",49110.44,EUR,"Cain, Price and Lozano",Manufacturing,Raw Materials
+T0824,2025-01-05,Procurement of Temporary Staff from Rodriguez Group,15237.17,USD,Rodriguez Group,HR & Training,Temporary Staff
+T0825,2025-03-16,"Procurement of Clinical Trials from Dillon, Ramirez and Thomas",42089.83,GBP,"Dillon, Ramirez and Thomas",R&D,Clinical Trials
+T0826,2025-03-12,Procurement of One-shot Software Purchase from Matthews LLC,36949.67,USD,Matthews LLC,IT,One-shot Software Purchase
+T0827,2025-03-24,"Procurement of redefine customized e-services from Phillips, Allen and Smith",4341.91,USD,"Phillips, Allen and Smith",,
+T0828,2025-03-03,"Procurement of Temporary Staff from Jennings, Lawrence and Jackson",33518.01,EUR,"Jennings, Lawrence and Jackson",HR & Training,Temporary Staff
+T0829,2025-02-17,"Procurement of Research Services from Monroe, Bryant and Dennis",34706.09,EUR,"Monroe, Bryant and Dennis",R&D,Research Services
+T0830,2025-02-19,"Procurement of Facility Maintenance from Alvarado, Smith and Williams",15067.43,EUR,"Alvarado, Smith and Williams",Manufacturing,Facility Maintenance
+T0831,2025-02-20,Procurement of One-shot Software Purchase from Dunlap-Weiss,41087.93,USD,Dunlap-Weiss,IT,One-shot Software Purchase
+T0832,2025-01-20,Procurement of Employee Training from Martin and Sons,25820.76,GBP,Martin and Sons,HR & Training,Employee Training
+T0833,2025-02-11,"Procurement of Recruitment Services from Monroe, Bryant and Dennis",47878.77,USD,"Monroe, Bryant and Dennis",HR & Training,Recruitment Services
+T0834,2025-03-04,Procurement of Print Media from Collins-Donovan,29983.23,EUR,Collins-Donovan,Marketing,Print Media
+T0835,2025-01-19,Procurement of Event Sponsorship from Malone-Whitaker,19521.28,EUR,Malone-Whitaker,Marketing,Event Sponsorship
+T0836,2025-01-05,Procurement of aggregate front-end systems from Robinson-Gonzales,22563.25,EUR,Robinson-Gonzales,,
+T0837,2025-02-28,Procurement of Employee Training from Reid-Reynolds,23244.26,GBP,Reid-Reynolds,HR & Training,Employee Training
+T0838,2025-01-21,Procurement of Production Equipment from Avila-Miller,48877.42,EUR,Avila-Miller,Manufacturing,Production Equipment
+T0839,2025-01-26,Procurement of Employee Training from Haley Group,30094.67,USD,Haley Group,HR & Training,Employee Training
+T0840,2025-01-19,"Procurement of Last-mile Delivery from Cain, Price and Lozano",40861.41,USD,"Cain, Price and Lozano",Logistics,Last-mile Delivery
+T0841,2024-12-26,Procurement of Cold Chain Transport from Young-Anderson,34830.75,GBP,Young-Anderson,Logistics,Cold Chain Transport
+T0842,2025-01-02,Procurement of Print Media from Gilbert-Velazquez,24877.49,USD,Gilbert-Velazquez,Marketing,Print Media
+T0843,2025-02-11,Procurement of aggregate virtual channels from Banks-Tate,39617.93,EUR,Banks-Tate,,
+T0844,2025-01-05,"Procurement of Professional IT Services from Adams, Young and Hodges",31737.38,USD,"Adams, Young and Hodges",IT,Professional IT Services
+T0845,2025-02-18,"Procurement of Digital Advertising from Howard, Charles and Oneill",13391.86,GBP,"Howard, Charles and Oneill",Marketing,Digital Advertising
+T0846,2025-02-05,"Procurement of Clinical Trials from Sanchez, Wu and Smith",34209.39,USD,"Sanchez, Wu and Smith",R&D,Clinical Trials
+T0847,2025-01-23,"Procurement of Production Equipment from Bell, Shaffer and Zamora",15128.77,EUR,"Bell, Shaffer and Zamora",Manufacturing,Production Equipment
+T0848,2025-01-20,Procurement of Production Equipment from Russell-Kim,14814.37,EUR,Russell-Kim,Manufacturing,Production Equipment
+T0849,2025-03-08,Procurement of unleash global portals from Robertson LLC,45194.58,GBP,Robertson LLC,,
+T0850,2025-03-12,Procurement of Production Equipment from Vargas-Becker,48907.68,GBP,Vargas-Becker,Manufacturing,Production Equipment
+T0851,2025-01-05,Procurement of architect e-business convergence from Brooks LLC,12082.33,GBP,Brooks LLC,,
+T0852,2025-02-24,Procurement of Recurrent SaaS License from Erickson-Larson,25184.68,EUR,Erickson-Larson,IT,Recurrent SaaS License
+T0853,2025-01-06,Procurement of Last-mile Delivery from Martin and Sons,41413.24,GBP,Martin and Sons,Logistics,Last-mile Delivery
+T0854,2025-01-08,Procurement of Event Sponsorship from Burgess PLC,42711.57,GBP,Burgess PLC,Marketing,Event Sponsorship
+T0855,2025-03-16,"Procurement of Recurrent SaaS License from Perez, Blackwell and Mckee",33487.54,USD,"Perez, Blackwell and Mckee",IT,Recurrent SaaS License
+T0856,2025-01-02,Procurement of Last-mile Delivery from Melton PLC,19906.31,EUR,Melton PLC,Logistics,Last-mile Delivery
+T0857,2025-02-05,"Procurement of One-shot Software Purchase from Alvarado, Smith and Williams",23067.82,USD,"Alvarado, Smith and Williams",IT,One-shot Software Purchase
+T0858,2025-01-09,Procurement of Event Sponsorship from Hanna Ltd,31976.82,GBP,Hanna Ltd,Marketing,Event Sponsorship
+T0859,2025-03-11,"Procurement of Last-mile Delivery from Bell, Shaffer and Zamora",16188.58,GBP,"Bell, Shaffer and Zamora",Logistics,Last-mile Delivery
+T0860,2025-02-22,Procurement of enable frictionless networks from Vargas-Becker,35720.75,GBP,Vargas-Becker,,
+T0861,2025-01-04,"Procurement of Employee Training from Perez, Blackwell and Mckee",27828.01,GBP,"Perez, Blackwell and Mckee",HR & Training,Employee Training
+T0862,2025-01-15,Procurement of Recurrent SaaS License from Flores Ltd,9008.02,EUR,Flores Ltd,IT,Recurrent SaaS License
+T0863,2025-01-21,Procurement of Lab Equipment from Gilbert-Velazquez,27567.4,GBP,Gilbert-Velazquez,R&D,Lab Equipment
+T0864,2025-01-20,Procurement of Last-mile Delivery from Matthews LLC,18463.08,USD,Matthews LLC,Logistics,Last-mile Delivery
+T0865,2025-03-18,Procurement of Lab Equipment from Davis-Smith,3673.23,EUR,Davis-Smith,R&D,Lab Equipment
+T0866,2025-02-13,Procurement of matrix cross-media functionalities from Newman LLC,18176.35,EUR,Newman LLC,,
+T0867,2025-02-08,"Procurement of exploit extensible interfaces from Adams, Young and Hodges",43532.35,EUR,"Adams, Young and Hodges",,
+T0868,2025-02-14,Procurement of embrace end-to-end markets from Hughes-Payne,7878.52,USD,Hughes-Payne,,
+T0869,2025-01-31,Procurement of productize real-time supply-chains from Perry-Jackson,27393.77,GBP,Perry-Jackson,,
+T0870,2024-12-25,Procurement of Temporary Staff from Smith and Sons,38719.58,GBP,Smith and Sons,HR & Training,Temporary Staff
+T0871,2024-12-25,Procurement of Production Equipment from Watson-Carson,22384.01,GBP,Watson-Carson,Manufacturing,Production Equipment
+T0872,2025-01-16,Procurement of Research Services from Sherman-Martin,22217.61,GBP,Sherman-Martin,R&D,Research Services
+T0873,2025-01-23,"Procurement of Last-mile Delivery from May, Osborne and Randolph",10840.13,USD,"May, Osborne and Randolph",Logistics,Last-mile Delivery
+T0874,2025-01-05,"Procurement of Employee Training from Monroe, Bryant and Dennis",20466.08,USD,"Monroe, Bryant and Dennis",HR & Training,Employee Training
+T0875,2025-03-13,Procurement of Cold Chain Transport from Matthews LLC,33740.82,USD,Matthews LLC,Logistics,Cold Chain Transport
+T0876,2025-02-05,"Procurement of redefine enterprise supply-chains from Perez, Blackwell and Mckee",41577.04,USD,"Perez, Blackwell and Mckee",,
+T0877,2025-02-10,"Procurement of Cold Chain Transport from Berry, Adkins and Davis",1652.36,EUR,"Berry, Adkins and Davis",Logistics,Cold Chain Transport
+T0878,2025-02-08,"Procurement of incentivize collaborative functionalities from Murillo, Jackson and Guerrero",18015.51,GBP,"Murillo, Jackson and Guerrero",,
+T0879,2025-01-23,Procurement of reinvent end-to-end models from Robinson-Gonzales,22772.06,USD,Robinson-Gonzales,,
+T0880,2025-02-27,"Procurement of enable granular communities from Alvarado, Smith and Williams",44579.58,EUR,"Alvarado, Smith and Williams",,
+T0881,2025-03-12,"Procurement of generate magnetic relationships from Adams, Young and Hodges",19071.82,USD,"Adams, Young and Hodges",,
+T0882,2025-03-05,Procurement of incentivize viral ROI from Wang LLC,16863.06,GBP,Wang LLC,,
+T0883,2025-01-25,"Procurement of Event Sponsorship from Randolph, Salas and Vasquez",44093.67,EUR,"Randolph, Salas and Vasquez",Marketing,Event Sponsorship
+T0884,2025-01-28,Procurement of redefine clicks-and-mortar niches from Ramsey-Barnett,17408.7,USD,Ramsey-Barnett,,
+T0885,2025-03-01,Procurement of e-enable impactful users from Juarez Inc,43612.78,USD,Juarez Inc,,
+T0886,2025-01-03,Procurement of Lab Equipment from Rodriguez LLC,40491.22,USD,Rodriguez LLC,R&D,Lab Equipment
+T0887,2025-03-04,"Procurement of Recurrent SaaS License from Mcdonald, Frederick and West",46942.63,GBP,"Mcdonald, Frederick and West",IT,Recurrent SaaS License
+T0888,2025-01-12,"Procurement of Warehousing from May, Osborne and Randolph",25373.01,GBP,"May, Osborne and Randolph",Logistics,Warehousing
+T0889,2025-01-01,"Procurement of Employee Training from Day, Long and Bell",33963.38,GBP,"Day, Long and Bell",HR & Training,Employee Training
+T0890,2025-02-11,Procurement of Digital Advertising from Combs PLC,29671.78,EUR,Combs PLC,Marketing,Digital Advertising
+T0891,2025-02-25,"Procurement of visualize end-to-end synergies from Cain, Price and Lozano",19872.74,EUR,"Cain, Price and Lozano",,
+T0892,2025-02-01,Procurement of Recurrent SaaS License from Wang LLC,3104.34,GBP,Wang LLC,IT,Recurrent SaaS License
+T0893,2025-02-06,"Procurement of incubate B2B networks from Green, Thompson and Paul",25714.8,EUR,"Green, Thompson and Paul",,
+T0894,2025-01-08,Procurement of drive impactful applications from Perry LLC,12910.52,GBP,Perry LLC,,
+T0895,2025-01-28,"Procurement of Warehousing from Huff, Thompson and Day",10146.86,EUR,"Huff, Thompson and Day",Logistics,Warehousing
+T0896,2025-03-20,"Procurement of Raw Materials from West, Jones and Koch",31161.62,EUR,"West, Jones and Koch",Manufacturing,Raw Materials
+T0897,2025-03-17,"Procurement of Clinical Trials from Smith, Aguilar and Finley",5748.75,EUR,"Smith, Aguilar and Finley",R&D,Clinical Trials
+T0898,2024-12-27,"Procurement of Raw Materials from Huff, Thompson and Day",44454.09,GBP,"Huff, Thompson and Day",Manufacturing,Raw Materials
+T0899,2024-12-29,Procurement of Raw Materials from Martin and Sons,2126.43,GBP,Martin and Sons,Manufacturing,Raw Materials
+T0900,2024-12-29,Procurement of Cold Chain Transport from Stanley and Sons,17796.88,USD,Stanley and Sons,Logistics,Cold Chain Transport
+T0901,2025-01-31,"Procurement of Warehousing from May, Osborne and Randolph",18411.13,USD,"May, Osborne and Randolph",Logistics,Warehousing
+T0902,2025-03-17,Procurement of Print Media from Banks-Tate,30904.83,USD,Banks-Tate,Marketing,Print Media
+T0903,2025-01-22,Procurement of aggregate compelling mindshare from Silva PLC,24744.06,EUR,Silva PLC,,
+T0904,2025-03-23,"Procurement of disintermediate world-class initiatives from Huff, Thompson and Day",41641.51,GBP,"Huff, Thompson and Day",,
+T0905,2025-03-11,"Procurement of grow back-end content from Bell, Shaffer and Zamora",8848.09,GBP,"Bell, Shaffer and Zamora",,
+T0906,2025-02-04,Procurement of Professional IT Services from Russell-Kim,45568.78,GBP,Russell-Kim,IT,Professional IT Services
+T0907,2025-02-22,"Procurement of Research Services from West, Jones and Koch",24520.32,EUR,"West, Jones and Koch",R&D,Research Services
+T0908,2025-01-05,"Procurement of Print Media from Lopez, Golden and Calhoun",41449.51,USD,"Lopez, Golden and Calhoun",Marketing,Print Media
+T0909,2024-12-26,Procurement of incentivize compelling channels from Wall PLC,36401.51,GBP,Wall PLC,,
+T0910,2025-01-10,Procurement of Digital Advertising from Mitchell Ltd,36115.92,GBP,Mitchell Ltd,Marketing,Digital Advertising
+T0911,2025-02-10,Procurement of Temporary Staff from Hughes-Payne,38495.86,GBP,Hughes-Payne,HR & Training,Temporary Staff
+T0912,2025-02-08,Procurement of facilitate best-of-breed portals from Dunlap-Weiss,21030.41,GBP,Dunlap-Weiss,,
+T0913,2025-03-25,Procurement of Facility Maintenance from Contreras-Lucas,11207.97,GBP,Contreras-Lucas,Manufacturing,Facility Maintenance
+T0914,2024-12-31,Procurement of Print Media from Stanley and Sons,36849.47,GBP,Stanley and Sons,Marketing,Print Media
+T0915,2025-03-09,Procurement of Print Media from Adams-Patel,28443.47,EUR,Adams-Patel,Marketing,Print Media
+T0916,2025-01-04,Procurement of Recurrent SaaS License from Watson-Carson,8919.68,GBP,Watson-Carson,IT,Recurrent SaaS License
+T0917,2025-02-24,Procurement of Warehousing from Brooks LLC,44974.33,USD,Brooks LLC,Logistics,Warehousing
+T0918,2025-02-01,Procurement of Last-mile Delivery from Haley Group,35550.66,GBP,Haley Group,Logistics,Last-mile Delivery
+T0919,2025-01-25,Procurement of Employee Training from Brooks LLC,25993.72,EUR,Brooks LLC,HR & Training,Employee Training
+T0920,2025-02-12,"Procurement of Professional IT Services from Murillo, Jackson and Guerrero",1750.33,USD,"Murillo, Jackson and Guerrero",IT,Professional IT Services
+T0921,2025-03-14,"Procurement of Print Media from Monroe, Bryant and Dennis",8072.81,GBP,"Monroe, Bryant and Dennis",Marketing,Print Media
+T0922,2025-02-24,Procurement of Clinical Trials from Johnson-Farmer,44366.9,USD,Johnson-Farmer,R&D,Clinical Trials
+T0923,2025-03-15,Procurement of maximize out-of-the-box relationships from Erickson-Larson,16706.14,EUR,Erickson-Larson,,
+T0924,2025-03-23,Procurement of Employee Training from Newman LLC,20683.92,EUR,Newman LLC,HR & Training,Employee Training
+T0925,2025-02-09,Procurement of One-shot Software Purchase from Banks-Tate,7135.13,EUR,Banks-Tate,IT,One-shot Software Purchase
+T0926,2025-03-09,Procurement of integrate mission-critical models from Watson-Smith,27927.21,USD,Watson-Smith,,
+T0927,2025-01-16,"Procurement of Recruitment Services from Townsend, Harper and Baker",42442.81,EUR,"Townsend, Harper and Baker",HR & Training,Recruitment Services
+T0928,2024-12-29,Procurement of evolve magnetic e-markets from Nolan LLC,30517.69,USD,Nolan LLC,,
+T0929,2025-01-27,"Procurement of Professional IT Services from Hooper, Robinson and Little",8747.69,USD,"Hooper, Robinson and Little",IT,Professional IT Services
+T0930,2025-01-03,Procurement of Recurrent SaaS License from Davis-Smith,9530.22,EUR,Davis-Smith,IT,Recurrent SaaS License
+T0931,2025-02-06,Procurement of synthesize turn-key web-readiness from Collins-Donovan,28276.3,GBP,Collins-Donovan,,
+T0932,2025-01-29,Procurement of Last-mile Delivery from Williams PLC,7527.61,USD,Williams PLC,Logistics,Last-mile Delivery
+T0933,2025-02-15,Procurement of Professional IT Services from Banks-Tate,49877.82,GBP,Banks-Tate,IT,Professional IT Services
+T0934,2025-01-26,Procurement of Digital Advertising from Nolan LLC,9154.05,GBP,Nolan LLC,Marketing,Digital Advertising
+T0935,2025-01-25,"Procurement of Temporary Staff from West, Jones and Koch",32803.12,EUR,"West, Jones and Koch",HR & Training,Temporary Staff
+T0936,2025-03-16,Procurement of whiteboard user-centric experiences from Reid-Reynolds,32713.71,EUR,Reid-Reynolds,,
+T0937,2025-01-05,"Procurement of Warehousing from Cain, Price and Lozano",2878.96,USD,"Cain, Price and Lozano",Logistics,Warehousing
+T0938,2025-02-13,Procurement of Research Services from Watson-Carson,5875.92,USD,Watson-Carson,R&D,Research Services
+T0939,2025-02-04,Procurement of synergize interactive functionalities from Benton-Wang,24640.9,USD,Benton-Wang,,
+T0940,2025-03-02,"Procurement of Recurrent SaaS License from Stewart, Brooks and Bailey",27212.73,USD,"Stewart, Brooks and Bailey",IT,Recurrent SaaS License
+T0941,2025-01-13,"Procurement of deliver frictionless web services from Lopez, Golden and Calhoun",37647.39,EUR,"Lopez, Golden and Calhoun",,
+T0942,2025-01-03,Procurement of Facility Maintenance from Hughes-Payne,21075.02,GBP,Hughes-Payne,Manufacturing,Facility Maintenance
+T0943,2025-03-01,Procurement of Event Sponsorship from Contreras-Lucas,31375.78,EUR,Contreras-Lucas,Marketing,Event Sponsorship
+T0944,2025-01-13,Procurement of syndicate revolutionary ROI from Malone-Whitaker,7900.94,GBP,Malone-Whitaker,,
+T0945,2025-03-08,Procurement of Digital Advertising from Graves-Thompson,10816.49,EUR,Graves-Thompson,Marketing,Digital Advertising
+T0946,2025-01-02,"Procurement of target rich vortals from Smith, Aguilar and Finley",15586.3,EUR,"Smith, Aguilar and Finley",,
+T0947,2025-01-27,"Procurement of Recurrent SaaS License from Ho, Nguyen and Williams",23195.07,USD,"Ho, Nguyen and Williams",IT,Recurrent SaaS License
+T0948,2025-03-15,Procurement of revolutionize bricks-and-clicks systems from Wall PLC,26620.32,EUR,Wall PLC,,
+T0949,2025-03-22,Procurement of transform compelling initiatives from Erickson-Larson,37684.47,GBP,Erickson-Larson,,
+T0950,2025-01-21,Procurement of aggregate sticky e-tailers from Russell-Kim,47479.38,EUR,Russell-Kim,,
+T0951,2025-02-17,Procurement of Clinical Trials from Melton PLC,45408.3,USD,Melton PLC,R&D,Clinical Trials
+T0952,2025-03-12,"Procurement of Temporary Staff from Lopez, Golden and Calhoun",22704.58,GBP,"Lopez, Golden and Calhoun",HR & Training,Temporary Staff
+T0953,2024-12-29,Procurement of Clinical Trials from Mitchell Ltd,20657.34,GBP,Mitchell Ltd,R&D,Clinical Trials
+T0954,2025-03-08,Procurement of incentivize rich action-items from Haley Group,16273.68,GBP,Haley Group,,
+T0955,2025-03-18,"Procurement of incubate compelling communities from Cain, Price and Lozano",43168.84,USD,"Cain, Price and Lozano",,
+T0956,2025-01-19,Procurement of Clinical Trials from Perry-Jackson,24845.74,GBP,Perry-Jackson,R&D,Clinical Trials
+T0957,2025-02-28,Procurement of Temporary Staff from Melton PLC,45277.12,USD,Melton PLC,HR & Training,Temporary Staff
+T0958,2025-01-28,Procurement of maximize compelling e-commerce from Silva PLC,23797.67,EUR,Silva PLC,,
+T0959,2025-03-15,Procurement of strategize bricks-and-clicks relationships from Combs PLC,18749.48,USD,Combs PLC,,
+T0960,2025-02-17,Procurement of One-shot Software Purchase from Watson-Smith,1866.59,EUR,Watson-Smith,IT,One-shot Software Purchase
+T0961,2025-02-10,Procurement of iterate vertical web-readiness from Hill PLC,37483.87,EUR,Hill PLC,,
+T0962,2025-01-03,Procurement of Cold Chain Transport from Hill PLC,41151.33,EUR,Hill PLC,Logistics,Cold Chain Transport
+T0963,2025-02-17,Procurement of matrix integrated interfaces from Watson-Carson,17253.9,EUR,Watson-Carson,,
+T0964,2025-03-01,Procurement of syndicate magnetic supply-chains from Martin and Sons,5006.3,USD,Martin and Sons,,
+T0965,2025-01-29,Procurement of repurpose one-to-one e-commerce from Hughes-Payne,19499.64,EUR,Hughes-Payne,,
+T0966,2025-01-25,"Procurement of seize integrated e-tailers from Alvarado, Smith and Williams",46908.62,USD,"Alvarado, Smith and Williams",,
+T0967,2025-02-12,Procurement of innovate collaborative experiences from Coleman Inc,43282.83,GBP,Coleman Inc,,
+T0968,2025-03-05,Procurement of Recruitment Services from Taylor PLC,40047.57,USD,Taylor PLC,HR & Training,Recruitment Services
+T0969,2025-01-27,Procurement of Facility Maintenance from Matthews LLC,42917.55,USD,Matthews LLC,Manufacturing,Facility Maintenance
+T0970,2025-01-16,Procurement of Recruitment Services from Smith and Sons,36920.89,EUR,Smith and Sons,HR & Training,Recruitment Services
+T0971,2025-01-17,Procurement of Recruitment Services from Smith and Sons,27449.89,GBP,Smith and Sons,HR & Training,Recruitment Services
+T0972,2025-02-15,Procurement of Employee Training from Brooks LLC,20528.83,EUR,Brooks LLC,HR & Training,Employee Training
+T0973,2025-02-27,"Procurement of Clinical Trials from May, Osborne and Randolph",23639.52,EUR,"May, Osborne and Randolph",R&D,Clinical Trials
+T0974,2025-03-10,Procurement of Warehousing from Horton Group,18112.45,USD,Horton Group,Logistics,Warehousing
+T0975,2025-03-18,Procurement of innovate efficient content from Irwin-Dean,46185.1,USD,Irwin-Dean,,
+T0976,2025-01-30,Procurement of Lab Equipment from Smith and Sons,39464.41,GBP,Smith and Sons,R&D,Lab Equipment
+T0977,2025-01-22,Procurement of Recurrent SaaS License from Erickson-Larson,26836.89,USD,Erickson-Larson,IT,Recurrent SaaS License
+T0978,2025-01-10,"Procurement of Event Sponsorship from Bell, Shaffer and Zamora",32400.02,EUR,"Bell, Shaffer and Zamora",Marketing,Event Sponsorship
+T0979,2025-03-18,Procurement of Lab Equipment from Johnson Ltd,20234.07,GBP,Johnson Ltd,R&D,Lab Equipment
+T0980,2025-01-20,Procurement of maximize vertical eyeballs from Williams PLC,34271.93,EUR,Williams PLC,,
+T0981,2025-03-02,Procurement of aggregate cutting-edge markets from Ramsey-Barnett,23886.62,EUR,Ramsey-Barnett,,
+T0982,2025-03-09,"Procurement of disintermediate seamless functionalities from Monroe, Bryant and Dennis",28421.15,GBP,"Monroe, Bryant and Dennis",,
+T0983,2025-02-08,Procurement of Professional IT Services from Gilbert-Velazquez,16309.04,USD,Gilbert-Velazquez,IT,Professional IT Services
+T0984,2025-02-19,Procurement of whiteboard robust bandwidth from Mitchell Ltd,31623.16,USD,Mitchell Ltd,,
+T0985,2025-02-15,Procurement of Last-mile Delivery from Silva PLC,25657.57,GBP,Silva PLC,Logistics,Last-mile Delivery
+T0986,2025-03-07,"Procurement of Recurrent SaaS License from May, Osborne and Randolph",15289.97,GBP,"May, Osborne and Randolph",IT,Recurrent SaaS License
+T0987,2025-03-12,"Procurement of repurpose distributed action-items from Berry, Adkins and Davis",8774.76,GBP,"Berry, Adkins and Davis",,
+T0988,2025-01-16,Procurement of Facility Maintenance from Juarez Inc,24039.03,EUR,Juarez Inc,Manufacturing,Facility Maintenance
+T0989,2025-01-02,Procurement of One-shot Software Purchase from Johnson-Farmer,1727.66,EUR,Johnson-Farmer,IT,One-shot Software Purchase
+T0990,2025-01-29,Procurement of Raw Materials from Perry LLC,6543.52,EUR,Perry LLC,Manufacturing,Raw Materials
+T0991,2025-03-23,"Procurement of One-shot Software Purchase from Murillo, Jackson and Guerrero",5382.03,GBP,"Murillo, Jackson and Guerrero",IT,One-shot Software Purchase
+T0992,2025-03-04,Procurement of engineer enterprise networks from Gilbert-Velazquez,6345.35,GBP,Gilbert-Velazquez,,
+T0993,2025-02-09,Procurement of Warehousing from Horton Group,27107.65,GBP,Horton Group,Logistics,Warehousing
+T0994,2025-01-18,"Procurement of Employee Training from Sanchez, Wu and Smith",24524.75,EUR,"Sanchez, Wu and Smith",HR & Training,Employee Training
+T0995,2025-02-15,Procurement of Recruitment Services from Rodriguez LLC,1260.4,EUR,Rodriguez LLC,HR & Training,Recruitment Services
+T0996,2025-02-13,"Procurement of deploy proactive bandwidth from Olson, Stein and Baker",34953.41,USD,"Olson, Stein and Baker",,
+T0997,2025-01-21,Procurement of Facility Maintenance from Patterson-Clayton,16056.06,GBP,Patterson-Clayton,Manufacturing,Facility Maintenance
+T0998,2025-01-24,Procurement of expedite one-to-one supply-chains from Watson-Smith,29900.02,USD,Watson-Smith,,
+T0999,2025-02-14,Procurement of Professional IT Services from Johnson-Farmer,25414.63,USD,Johnson-Farmer,IT,Professional IT Services
+T1000,2025-01-24,Procurement of mesh user-centric schemas from Haley Group,6160.09,EUR,Haley Group,,
