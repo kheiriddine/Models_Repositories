@@ -1,11 +1,10 @@
-streamlit==1.33.0
+Streamlit==1.40.1
 pandas==2.0.3
-requests==2.31.0
+requests==2.32.3
 numpy==1.24.4
-plotly==5.18.0
-torch==2.2.1+cpu  # Version CPU obligatoire pour le cloud
-xgboost==2.0.3
-scikit-learn==1.4.0
-sentence-transformers==2.6.1
-transformers==4.38.2
-git+https://github.com/togethercomputer/together-python.git  # Librairie custom
+plotly==6.0.1
+torch==2.4.1+cpu  # Version CPU obligatoire pour le cloud
+xgboost==2.1.4
+scikit-learn==1.3.2
+sentence-transformers==3.2.1
+transformers==4.46.3
