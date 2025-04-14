@@ -3,7 +3,7 @@ pandas==2.0.3
 requests==2.31.0
 numpy==1.24.4
 plotly==5.18.0
-torch==2.2.1+cpu  # Version compatible cloud
+torch==2.2.1+cpu  # Version CPU obligatoire pour le cloud
 xgboost==2.0.3
 scikit-learn==1.4.0
 sentence-transformers==2.6.1
