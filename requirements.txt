@@ -1,3 +1,4 @@
+--prefer-binary  # Add this at the top to avoid source builds
 Streamlit==1.40.1
 pandas==2.0.3
 requests==2.32.3
