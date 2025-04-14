@@ -1,4 +1,6 @@
 --prefer-binary  # Add this at the top to avoid source builds
+tqdm==4.66.2
+typing-extensions==4.10.0
 Streamlit==1.40.1
 pandas==2.0.3
 requests==2.32.3
