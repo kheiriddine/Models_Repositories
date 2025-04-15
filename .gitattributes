@@ -1,2 +1,80 @@
 #*.safetensors filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
+#*.csv filter=lfs diff=lfs merge=lfs -text
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.spyderproject
+.spyproject
+.ropeproject
+.project
+.pydevproject
+.settings/
+
+# Streamlit-specific
+.streamlit/secrets.toml
+
+# Data files that should not be in version control
+*.csv
+*.json
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.safetensors
+
+# Downloaded model files
+*model.safetensors
+*.bin
+*.pt
+*.pth
+checkpoint*/
+model_fin_xgboost_classifier/
+bert_model/
+DistilBert_model/
+
+# Temporary files
+tmp/
+temp/
+.temp/
+.tmp/
+.cache/
+
+# Log files
+*.log
+logs/
+log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.directory
